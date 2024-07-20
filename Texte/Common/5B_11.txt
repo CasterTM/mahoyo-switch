@@ -127,6 +127,6 @@
 [sha:6db8e9de186468c48aaf39ec18c467072b86d7e3]{
 -- Page 8, Offset 5820.
 -- 長かった魔法使いの夜は、最後の幕に入ったらしい。
-  la longue nuit des magiciens semblait être entrée dans son dernier acte.
+  la longue nuit des Magiciennes semblait être entrée dans son dernier acte.
 
 }

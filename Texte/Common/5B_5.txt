@@ -631,7 +631,7 @@ Ils sont capables de reproduire des histoires fantastiques surréalistes, des ab
 [sha:b2e21fe802c9bfee5de79accbc6f8159c4c6d578]{
 -- Page 33, Offset 6994.
 -- 「有珠の使い魔は全てが空想によってこねられた神秘なの。
-「Tous les familiers d'Alice sont des mystères créés à partir de l'imagination.
+「Tous les familiers d'Alice sont des Mystères créés à partir de l'imagination.
 
 }
 [sha:69362d0295a790f676f6524cdc6c9138626dfc3d]{

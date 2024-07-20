@@ -1027,7 +1027,7 @@ Je te le répète une dernière fois, alors réfléchis bien...... Tu devrais t'
 [sha:11bd74439ed4dacad45b526481b6f4adf03174a5]{
 -- Page 48, Offset 5782.
 -- 自分がもう少し器用で、もう少しだけ修練を積んでいたのなら、あるいはスナークを探る手段もあっただろうに。
-  Si elle avait été un peu plus douée et avait acquis un peu plus d'expérience, peut-être aurait-elle trouvé un moyen pour le trouver.
+  Si elle avait été un peu plus douée et avait acquis un peu plus d'expérience, peut-être aurait-elle trouvé un moyen de l'identifier.
 
 }
 [sha:6609020eb4220b4c8471592ae10df39f838d3ce8]{

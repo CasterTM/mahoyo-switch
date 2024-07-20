@@ -85,7 +85,7 @@ Dumpty est toujours avec lui ?」
 [sha:09e7fd471c6326989883509c23f90daa1be9f9f3]{
 -- Page 4, Offset 5835.
 -- スクラッチダンプティは、捕捉した対象が目を離した途端に落下し、破裂する時限爆弾だ。
-  Scratch Dumpty était une bombe à retardement qui chutait et explosait dès que l'objet ciblé détournait les yeux.
+  Scratch Dumpty était une bombe à retardement qui chutait et explosait dès que sa cible détournait les yeux.
 
 }
 [sha:ea6e44ddf351fad6dbc2007ee7eb199001d4ade4]{
