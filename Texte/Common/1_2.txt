@@ -7,7 +7,7 @@
 [sha:94af4bf1933d233670c5f047c5c7543533c86459]{
 -- Page 0, Offset 146.
 -- 遠くの空には日射しが見え隠れしている。
-  Au loin dans le ciel, on pouvait voir les rayons du soleil qui se dissimulaient.
+  Au loin dans le ciel, on pouvait apercevoir les rayons du soleil qui se dissimulaient.
 
 }
 [sha:2fb0bf18b1a067bb1847b9c0abb1b7df75242aa4]{
@@ -163,7 +163,7 @@
 [sha:b81847c28c7506fc99e1c9bbbc8e07b5e4f6ef38]{
 -- Page 7, Offset 172.
 -- 教師というより頼れる先輩といった人物だが、あいにく、彼女はそう慕ってもいなかった。
-  Il ressemblait plus à un collègue sur qui on pouvait compter qu'à un enseignant, mais malheureusement pour lui, elle ne l'aimait pas énormément.
+  Il ressemblait plus à un camarade sur qui on pouvait compter qu'à un véritable enseignant, mais malheureusement pour lui, elle ne l'aimait pas énormément.
 
 }
 [sha:7ca25c346cfa728214146a3f3d2781470fec8e99]{
@@ -1897,7 +1897,7 @@ Mais celui-ci ne perçut pas le sarcasme présent dans sa voix.
 [sha:f2884621df5f283cd63d6d06758e7e1699df806b]{
 -- Page 98, Offset 461.
 -- 「ああ、静希草十郎かな。君は蒼崎さんだったね」
-「Ah oui, Shizuki Sōjūrō, j'imagine. Et vous êtes Mlle Aozaki, c'est bien ça ?」
+「Ah oui, Shizuki Sōjūrō, j'imagine. Et vous, vous êtes Mlle Aozaki, c'est bien ça ?」
 
 }
 [sha:bf85bda93a443fc728783931c0adecd08761aec8]{
@@ -2029,7 +2029,7 @@ Mais celui-ci ne perçut pas le sarcasme présent dans sa voix.
 [sha:aa221931e6d3a46085e76c4a6084c21fa1dc8426]{
 -- Page 104, Offset 483.
 -- 窓のない通路には外からの日差しも、人の気配もない。
-  Le couloir sans fenêtres ne recevait aucun rayon de soleil et était désert.
+  Le couloir sans fenêtres n'était éclairé par aucun rayon de soleil et était désert.
 
 }
 [sha:31748a25766c11e5520ed4c8ffe3dbdcc5c45076]{

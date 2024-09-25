@@ -295,7 +295,7 @@ The cow jump'd over the moon,
 [sha:c23ad755a5a237b0a4541ffa3963ac04919a65c9]{
 -- Page 13, Offset 1386.
 -- 獣はおろか、人の息など有るはずがない。
-  Sans mentionner les animaux, il ne pouvait pas s'y trouver de vie humaine.
+  On ne percevait pas le souffle du moindre animal, et encore moins celui d'un être humain.
 
 }
 [sha:a1a811cdfa760453d692d20ec18b3e63cdd68679]{
@@ -625,7 +625,7 @@ To see such craft,
 [sha:5382d96f4d11a71f4a6fc83158f8ebd77b8ffca7]{
 -- Page 27, Offset 1441.
 -- 「今晩は。話の分かる<主人|ひと>はいる？」
-「Y a-t-il quelqu'un doué de raison cette fois ?」
+「Bonsoir. Pourrais-je parler à votre maître ?」
 
 }
 [sha:7af7199b36b88ccdcdfffefc765cdf4c1e2fe40f]{
@@ -679,13 +679,13 @@ To see such craft,
 [sha:11200965d29c5d16e29eae657b750939b1d0cac3]{
 -- Page 29, Offset 1450.
 -- そんな姿だけど、貴方たちは一人前の魔術師のようだし」
-  Et puis, vous avez beau avoir cette forme, vous semblez être de vrais Mages.」
+  Et puis, en dépit de votre apparence, vous semblez être du même niveau que des Mages accomplis.」
 
 }
 [sha:431aaa755d6e8894cd92d6593906a4c3718a48a3]{
 -- Page 29, Offset 1451.
 -- 黒衣が動く。
-  Le vêtement noir ondula.
+  Son vêtement noir ondula.
 
 }
 [sha:fd239c15dbc0221e33ddae530d5db93e178dedea]{
@@ -1075,7 +1075,7 @@ London Bridge is broken down,
 [sha:28182bfc8602050774885e99063bd4d290680653]{
 -- Page 48, Offset 1516.
 -- 何しろ彼らの雇い主が、その<類|たぐい>の異人である。
-  Après tout, son employeur était aussi de ce genre-là, quelqu'un d'étrange.
+  Après tout, son employeur était lui aussi de ce genre-là, quelqu'un d'étrange.
 
 }
 [sha:9c7ec3ad113323a20483993b405bf6c20b9172d0]{
@@ -1381,7 +1381,7 @@ London Bridge is broken down,
 [sha:3cc6d03caf72c55235f1a1cae267ad82ab1d7c32]{
 -- Page 60, Offset 1567.
 -- <単純|シンプル>ではあるが、だからこそ、この至近距離で放てば回避は不可能な死の<散弾|ショットガン>。
-  C'était simple, mais c'était aussi la raison qui faisait d'eux une arme mortelle impossible à éviter si elle était utilisée à une aussi courte distance.
+  Son effet était simple, mais c'était aussi ce qui en faisait une arme mortelle et impossible à éviter si elle était utilisée à une aussi courte distance.
 
 }
 [sha:cbb3f577fbc7e6ec8c25ecff04b5fa078ea1caf4]{

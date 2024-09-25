@@ -1,7 +1,7 @@
 [sha:39e8c5d00243d46fcfd34dc8c366c403d39f03b3]{
 -- Page 0, Offset 552.
 -- 何を基準にして普通というのか疑問だけれど、性格はいたって<普通|ノーマル>。素朴でいい人。イメージカラーはあえて白。性別は男子。容姿はぼんやりしている。
-  On pouvait se demander sur quels critères de normalité elle se basait, mais son caractère était tout à fait normal. Une personne naïve et gentille. Couleur de la personnalité : blanche. Genre : masculin. Impression générale : tête en l'air.
+  On pouvait se demander sur quels critères de normalité elle se basait, mais son caractère était tout à fait normal. Une personne naïve et gentille. Couleur de la personnalité : blanche. Genre : masculin. Impression globale : tête en l'air.
 
 }
 [sha:d15213a3f61fe15a64f8182cf32e50cd249ad433]{
@@ -313,7 +313,7 @@ Ravalant sa rage, Aoko fit son plus beau sourire.
 [sha:cfe306b91d8ec76f8e077f6a3044992c3b6c761f]{
 -- Page 14, Offset 604.
 -- 磁石のように、どんなにさがっても青子は近寄ってくる。
-  Comme un aimant, il avait beau reculer, Aoko s'approchait inlassablement.
+  Comme un aimant, il avait beau reculer, Aoko s'approchait inexorablement.
 
 }
 [sha:d667160a4ecb4b2b981e0d73822de371aca449b7]{

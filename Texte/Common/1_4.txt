@@ -157,7 +157,7 @@
 [sha:41f5a9d8eb7257313c445097191aa4e6a860021b]{
 -- Page 9, Offset 733.
 -- 今あるのは第二校舎で、五十年前に建てられた初代校舎はさらに上った山の中。
-  Le bâtiment actuel était de la deuxième génération, et le premier construit cinquante ans auparavant se trouvait plus haut dans la montagne.
+  Le bâtiment actuel était de la deuxième génération, et celui de première génération, construit cinquante ans auparavant, se trouvait plus haut dans la montagne.
 
 }
 [sha:7068d612e279024a6e10fa7e54c9b70386b3b1cc]{
@@ -613,13 +613,13 @@
 [sha:472fddd181b95dc5bde1c23a98e5a58c42fcbee8]{
 -- Page 34, Offset 809.
 -- たとえば、丘の上に無数のカラスが集まっては消えていく。
-  Ou d'innombrables corbeaux se rassemblaient en haut de la colline et disparaissaient.
+  Ou bien, d'innombrables corbeaux se rassemblaient en haut de la colline et disparaissaient.
 
 }
 [sha:086a78fe0df6d4cb634917e95046b12af6fc3548]{
 -- Page 34, Offset 810.
 -- たとえば、霧が深い日は子供が迷いこんで神隠しにあう。
-  Ou bien, les jours où le brouillard était épais, des enfants se perdaient et disparaissaient mystérieusement.
+  Ou encore, les jours où le brouillard était épais, des enfants se perdaient et disparaissaient mystérieusement.
 
 }
 [sha:4a62c35924861a5f8ac1dd6adee50bb87da9d990]{

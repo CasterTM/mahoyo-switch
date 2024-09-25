@@ -7,7 +7,7 @@
 [sha:dc944f54e74f067da3dbe0ddb15c2363efd76c68]{
 -- Page 0, Offset 1237.
 -- 教会から帰る時、商店街でお土産もらっちゃったー！
-  En revenant de l'église, on m'a offert un cadeau au quartier commerçant !
+  En revenant de l'église, on m'a offert un petit cadeau au quartier commerçant !
 
 }
 [sha:58a268de8416244eb878bdc17afff90b4a29fab0]{
@@ -139,7 +139,7 @@
 [sha:550122d38aac7f7cb667382e7df82ef6dfd08260]{
 -- Page 6, Offset 1259.
 -- 「え？　なによ、気味悪いなあ。気遣いされるコトなんてないってば。いつも通りの一日だったし、そんな疲れた顔してる、私？」
-「Hein ? De quoi ? Tu me donnes la chair de poule. Ne t'en fais pas. C'était un jour comme un autre, et puis, tu trouves vraiment que j'ai l'air fatiguée ?」
+「Hein ? De quoi ? Tu me donnes la chair de poule. Ne t'en fais pas pour moi. C'était un jour comme un autre, et puis, tu trouves vraiment que j'ai l'air fatiguée ?」
 
 }
 [sha:cb1e9c38e721e522f511fcf5c1085a932afe7110]{
@@ -175,7 +175,7 @@
 [sha:ab38f11eb7ccb418497ec7634956d2f12de94305]{
 -- Page 8, Offset 1265.
 -- えっと、今日の課題って初歩の<暗示|ウィッシュ>でしょ？
-  Voyons, la leçon du jour, c'était les rudiments de la Suggestion, c'est ça ?
+  Voyons, la leçon du jour, c'était les rudiments de la Suggestion, c'est bien ça ?
 
 }
 [sha:8adf2c4980b0ea10c8b22ebf81fe023bef9ae53c]{
@@ -277,7 +277,7 @@
 [sha:0b2cb05e9ef0b9ddb0d356bb26a82a15473347f6]{
 -- Page 14, Offset 1282.
 -- 「ねえ有珠、庭掃除専用のプロイとかいないの？」
-「Dis Alice, tu n'aurais pas un Ploy spécialisé dans le nettoyage de jardin ?」
+「Dis-moi Alice, tu n'aurais pas un Ploy spécialisé dans le nettoyage de jardin ?」
 
 }
 [sha:27ec4476c62535b3bd31678e1a892093b90d7c10]{

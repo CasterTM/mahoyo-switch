@@ -121,7 +121,7 @@
 [sha:34cb539119d12aba1741a5ad12e5cc2dcd6670cb]{
 -- Page 6, Offset 20. Glued. Mods: @x.
 -- お父さんが車のボンネットを開けると、そこにはひとつの命があった。
-  ils trouvèrent un être vivant sous le capot de la voiture que son père venait d'ouvrir.
+ils trouvèrent un être vivant sous le capot de la voiture que son père venait d'ouvrir.
 
 }
 [sha:1a9d4a753b3b03938e4d8357788a90379ed54eaa]{
@@ -277,7 +277,7 @@
 [sha:6f6044c72bf189c8010a1e9ec3a74ef3f5b82b2b]{
 -- Page 13, Offset 46.
 -- 山奥に別居している祖父の元へ走った。
-  et se précipita chez son grand-père qui vivait à l'intérieur de la montagne.
+  et se précipita chez son grand-père qui vivait plus à l'intérieur de la montagne.
 
 }
 [sha:d3a3618cec33e24f233706bc5b5aa2fdfd0c0727]{
@@ -409,7 +409,7 @@
 [sha:08a74ba45b0093ae648bc059b15b7e6125f0ab4d]{
 -- Page 21, Offset 68.
 -- この十分間の空白に何を経験して、
-  Pendant ce laps de temps de dix minutes, malgré ce qu'elle avait expérimenté,
+  Pendant ce laps de temps de dix minutes, malgré ce qu'elle avait vécu,
 
 }
 [sha:f4f796c4e7d202ee98fe34d4672d4630f2a89180]{
@@ -433,7 +433,7 @@
 [sha:03e987e2632c2b37cea2662892f826ff75df5d03]{
 -- Page 21, Offset 72.
 -- 「あの―――そこにだれか、いるの？」
-        「Hé―――Il y a quelqu'un ici ?」
+        「Euh―――Il y a quelqu'un, ici ?」
 
 }
 [sha:e475ea5124000d1ebce2dec3b136c0898c44d402]{

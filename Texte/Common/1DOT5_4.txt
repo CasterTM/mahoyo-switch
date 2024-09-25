@@ -109,7 +109,7 @@
 [sha:f78b6d473e74e51dee12847c4f5826ee97c9261b]{
 -- Page 6, Offset 1666.
 -- 「そうだなあ。粗大ゴミ回収は、金でも貰わねえとワリ合わなくなるんじゃねえか？　国が無料で回収するのはそろそろおしまいってトコ」
-「Eh bien... Si le ramassage des ordures ménagères ne rapporte pas tôt ou tard de l'argent, les bénéfices engendrés seront insuffisants, pas vrai ? Ça veut dire que l'État va bientôt arrêter de s'en occuper gratuitement.」
+「Eh bien... Si le ramassage des ordures ménagères ne rapporte pas d'argent tôt ou tard, l'activité ne sera pas rentable, pas vrai ? Ça veut dire que l'État va bientôt arrêter de s'en occuper gratuitement.」
 
 }
 [sha:aaef7dd6934bd83cc683607c8aaf5670916159e2]{
@@ -121,7 +121,7 @@
 [sha:008bc941f7ba9321f56f82159e0159c82a5c5f9c]{
 -- Page 7, Offset 1668. Glued. Mods: @x.
 -- オレみたいな開封・即使用、みたいな男がこれからのトレンドなワケでしょ？　ほら、コンビニで売ってる使い捨てカメラとか大人気だし？　ようやく流行がオレの消費文明に追いついたと、」
- Donc quelqu'un comme moi, “directement prêt à l'emploi”, finira bien par être à la mode un jour, non ? Comme les appareils jetables qui se vendent dans les supérettes et qui sont super populaires. Vous verrez, lorsque la mode sera enfin en phase avec ma manière de consommer...」
+ Donc quelqu'un “directement prêt à l'emploi” comme moi finira bien par être à la mode un jour, non ? Comme les appareils jetables qui se vendent dans les supérettes et qui sont super populaires. Vous verrez, lorsque la mode sera enfin en phase avec ma manière de consommer...」
 
 }
 [sha:2fc03f824f431fca9a4c25b21b53afbba4767115]{
@@ -277,7 +277,7 @@ En tant que garçon honnête, une belle fille récemment transférée me suffira
 [sha:69fcc47e172ff7a517c9472b37b735cc6e3b063f]{
 -- Page 16, Offset 1694.
 -- 「どんな<括|くく>りだそりゃ。そこは火星のお姫さまあたりにしとけよ」
-「C'est quoi ce fantasme ? Et pourquoi pas une princesse de Mars, tant qu'on y est ?」
+「C'est quoi ce fantasme ? Et pourquoi pas une princesse de Mars, tant que t'y es ?」
 
 }
 [sha:b4340588184b589d9cd23d2f1673011354295be5]{
@@ -289,7 +289,7 @@ En tant que garçon honnête, une belle fille récemment transférée me suffira
 [sha:5d442ca0396cb4db170f478cf444450b160fa44d]{
 -- Page 17, Offset 1696.
 -- “山城先生は訳あってＨＲを欠席しますので、各自、勝手に下校しちゃってくださいね。それではでは”
-“M. Yamashiro, pour diverses raisons, sera absent pour la réunion de classe, alors vous pouvez tous rentrer chez vous. Sur ce, à plus.”
+  “M. Yamashiro, pour diverses raisons, sera absent pour la réunion de classe, alors vous pouvez tous rentrer chez vous. Sur ce, à plus.”
 
 }
 [sha:40b1f8a73731dbf1689f2c26c1b453911696d27f]{
@@ -1028,7 +1028,7 @@ Malgré sa taille, cette église ne compte que peu de personnel.」
 [sha:7c08d8d11432e0b8bca3ccef63d20792f57a1898]{
 -- Page 60, Offset 1819. Glued.
 -- 正面玄関から<修道女|シスター>服の女性が姿を見せた。
-  une femme en habits de nonne se montra depuis la porte d'entrée.
+ une femme en habits de nonne se montra depuis la porte d'entrée.
 
 }
 [sha:579d4f19d356a35ee5ccc7a97d3500ec481b0873]{
@@ -1388,7 +1388,7 @@ Je vous confie le nettoyage des endroits que nous ne pouvons pas atteindre.」
 [sha:5472262eb9031ce7899db5de223938c60953abc8]{
 -- Page 79, Offset 1879.
 -- 三咲町のはずれにある丘と森。
-  La colline et la forêt présentes à la périphérie du vieux quartier de Misaki.
+  La colline et la forêt dense présentes à la périphérie du vieux quartier de Misaki.
 
 }
 [sha:2265aaa1933afb95b33117b80de01f65fadd143b]{
@@ -1532,7 +1532,7 @@ Dans le sens où c'était une nuisance pour les autres.
 [sha:92a6ddf82d0ed186d5bf2bda202cd09cdd7eb584]{
 -- Page 88, Offset 1903.
 -- 草十郎のひとつ隣の窓を拭きながら、女性は陽気に話しかけてくる。
-  Tout en nettoyant la fenêtre voisine de Sōjūrō, la femme parlait gaiement.
+  Tout en lavant la fenêtre voisine de Sōjūrō, la femme parlait gaiement.
 
 }
 [sha:cc155218defc5e296306142d3a9d8c7a2661751e]{
@@ -2280,7 +2280,7 @@ Je le demande pour le noter sur mon carnet de références, mais quels autres tr
 [sha:57c2871be1caae72b4057860d5c0749103b59a73]{
 -- Page 129, Offset 2028.
 -- 学校側が認可しているのは三咲町の商店街だけなので、予想通りの回答だった。
-  Les emplois autorisés par l'école étaient limités au quartier marchand du vieux quartier de Misaki, c'était donc la réponse à laquelle elle s'attendait.
+  Les emplois autorisés par l'école étaient limités au quartier marchand du vieux quartier de Misaki, c'était donc le genre de réponse à laquelle elle s'attendait.
 
 }
 [sha:08416df5e99ef25ed65e63025fee8e45e866c30b]{
@@ -2532,13 +2532,13 @@ C'est de toi qu'on parle, alors j'imagine que tu ne l'as pas remarqué, mais il 
 [sha:93dc2f3994bce58efade8b0ad09af7c199afd136]{
 -- Page 141, Offset 2070.
 -- “暗がりに近づくな”
-“Ne t'approche pas des coins sombres.”
+  “Ne t'approche pas des coins sombres.”
 
 }
 [sha:38ef84aeb232f6478558f9046310815d030dffc8]{
 -- Page 141, Offset 2071.
 -- “人気のないところには立ち入るな”
-“Ne pénètre pas dans des endroits déserts.”
+  “Ne pénètre pas dans des endroits déserts.”
 
 }
 [sha:9f886764c4386df699af5bdee505bd1a63c5ec4c]{
@@ -2658,7 +2658,7 @@ Si jamais on pénétrait à l'intérieur de leur territoire sans s'en rendre com
 [sha:b32ec99c4e5e8c137685e640d4262de84d6778b3]{
 -- Page 146, Offset 2091.
 -- さらに喩えるなら、彼の田舎には村の治安維持を任された人間はいなかった。
-  Si on poussait la comparaison encore plus loin, dans sa campagne, il n'y avait personne qui était chargé de la protection de l'ordre public du village.
+  Si on poussait la comparaison encore plus loin, dans sa campagne, personne n'était chargé de la protection de l'ordre public du village.
 
 }
 [sha:9b5ce18c8230cdbd525b55943fe6ac59f782ff33]{

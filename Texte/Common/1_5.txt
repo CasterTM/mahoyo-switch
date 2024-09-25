@@ -505,7 +505,7 @@
 [sha:c4aebd7b5fc1a68518f1907c4eddd77cfdafd305]{
 -- Page 23, Offset 922.
 -- 「こうなるとフォートナム＆メイソンも何もないわね。
-「Dans cet état, que ce soit du Fortnum & Mason ou une autre grande marque ne change pas grand-chose.
+「Même dans cet état, le Fortnum & Mason n'a pas d'égal.
 
 }
 [sha:e8b6906960c732c46389e0d301134394c28064ad]{
@@ -637,7 +637,7 @@ Pourtant, pour que ça n'arrive pas, j'avais enlevé et suturé deux ou trois co
 [sha:5b3b91a95ad219822e123dcf679e8e1746579e0f]{
 -- Page 28, Offset 944.
 -- こういう時、涼しい顔をしてホントは怒っているのが青子なのだ。
-  Quand Aoko avait l'air indifférente, c'était qu'en réalité, elle était énervée.
+  Quand Aoko avait cet air indifférent, ça signifiait qu'en réalité, elle était énervée.
 
 }
 [sha:72547ee9b4d60017e75ed9e374d72c8c5e1e5dd7]{
@@ -1267,7 +1267,7 @@ Aujourd'hui, quand je suis rentrée, j'ai vu quelque chose d'étrange, et je pen
 [sha:e5015f8d0a343779f83d12df58cdd85d5506d282]{
 -- Page 61, Offset 1049.
 -- 一瞬、青子はまた、有珠の冗談になっていない冗談のたぐいだと思った。
-  Un instant, Aoko pensa que c'était encore une des pseudo-blagues d'Alice.
+  L'espace d'un instant, Aoko pensa que c'était encore une des pseudo-blagues d'Alice.
 
 }
 [sha:951c5ebe61086510866d9ddbed6781043fc63338]{
@@ -1483,7 +1483,7 @@ Alice répondit sans lever un œil et sans hésitation à une Aoko en joie.
 [sha:9fb3569cc0f8665b044b4827e21793c99778b653]{
 -- Page 72, Offset 1085.
 -- 「あーあ、ひどい女。そういう時は残されたひとりのためにお土産買ってくるのが暗黙の了解だったのに。
-「Aah—ah, tu es horrible ! On avait pourtant un accord. On devait acheter quelque chose pour celle qui restait seule à ces moments-là.
+「Aah—ah, tu es une horrible femme ! On avait pourtant un accord. On devait acheter quelque chose pour celle qui restait seule à ces moments-là.
 
 }
 [sha:d1d29958e809f52e069df2c1312b3e8741040da7]{
