@@ -385,7 +385,7 @@
 [sha:b83f74a9a2e142dc93cb9854da80b1e98ee90946]{
 -- Page 19, Offset 3070.
 -- ここから<右舷|うげん>後方三十歩ほどの茂みの<陰|かげ>、四つんばいに手足をついたソレは<手招|てまね>きするように右手をあげ―――
-  L'ombre se trouvant à trente pieds derrière moi sur la droite, avec les quatre pattes au sol, leva la main droite comme pour faire un signe―――
+  L'ombre à trente pieds derrière moi sur la droite, avec les quatre pattes au sol, leva la main droite comme pour faire un signe―――
 
 }
 [sha:ac86f11a6170a618f56a2bad7570e7845d3c2b53]{

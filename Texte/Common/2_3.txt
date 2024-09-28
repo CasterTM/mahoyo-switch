@@ -67,7 +67,7 @@
 [sha:d4634932a0fceea5cf70acc7df8a3f6bc55fec51]{
 -- Page 3, Offset 2512.
 -- 「有里君。出席番号12番の静希君は？」
-「Yuri. Où est Shizuki, numéro de place 12 ?」
+「Arisato. Où est Shizuki, numéro de place 12 ?」
 
 }
 [sha:f80ff1d6da9a8722a9a4e64e496b56222f659e35]{
@@ -271,7 +271,7 @@ Je suis misanthrope, alors j'aime bien la personne que tu es......
 [sha:7cb863757853a20124cdec21c4eafdc12e2135c3]{
 -- Page 12, Offset 2546. Glued. Mods: @x.
 -- そんなヤツまでバカげたコトを言い出したら、俺は明日から何を頼りに昼メシを食えばいいんだ？」
- mais si même un type comme toi commence à raconter des bêtises, en qui pourrai-je croire en mangeant mon déjeuner à partir de demain ?」
+mais si même un type comme toi commence à raconter des bêtises, en qui pourrai-je croire en mangeant mon déjeuner à partir de demain ?」
 
 }
 [sha:adb9d95586360cc22f9c4ab510a5816db969ba12]{
@@ -385,7 +385,7 @@ Je suis misanthrope, alors j'aime bien la personne que tu es......
 [sha:af843aba34e2d846c08b6b6192e5cea7ea6f15ba]{
 -- Page 17, Offset 2565.
 -- 都会の生活を“今までの生活では全てありえなかった事”と感じる彼だからこそ、逆説的に、“起こりえる事は全てありえる事”に取ってしまう。
-  C'était justement parce qu'il sentait que sa vie en ville comportait des choses qui n'étaient pas possibles dans sa vie précédente que, paradoxalement, il prenait cet endroit comme un lieu où tout pouvait arriver.
+  Il y avait tellement de choses dans sa vie citadine qui lui auraient semblé impossibles dans sa vie précédente que, paradoxalement, il prenait la ville pour un lieu où littéralement tout pourrait arriver.
 
 }
 [sha:9abbdbc3302f50d0bf743e64a309130535377d86]{
@@ -679,7 +679,7 @@ Hormis l'invraisemblance des faits, ce qu'il venait d'entendre était mauvais, h
 [sha:976dd7eee5fa6f3f8dd366e044fe98f28859afaf]{
 -- Page 31, Offset 2614.
 -- ああイヤだイヤだ、何がイヤかってバカどもと<雁首|がんくび>ならべて金勘定するのがイヤだ！　ったく、嫉妬渦巻く大人の世界じゃ俺のオブラートみたいな心なんてぱっくり呑まれて溶けちまうコト請け合いだろうさ！」
-  Je ne veux pas ! Tu sais ce que je ne veux pas ? Je ne veux pas être pris par la peau du cou et rangé avec des imbéciles pour faire les comptes ! J'en suis certain, dans le monde des adultes où règnent l'envie et la jalousie, mon cœur sera rapidement englouti et dissous comme un vulgaire comprimé dans un verre d'eau !」
+  Je ne veux pas ! Tu sais ce que je ne veux pas ? Je ne veux pas être pris par la peau du cou et rangé avec des imbéciles juste pour faire les comptes ! J'en suis certain, dans le monde des adultes où règnent l'envie et la jalousie, mon cœur sera rapidement englouti et dissous comme un vulgaire comprimé dans un verre d'eau !」
 
 }
 [sha:d4dcc08bf2689df55221b922b8594556284be8c8]{

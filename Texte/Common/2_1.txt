@@ -379,7 +379,7 @@
 [sha:0893537972ab9e0bddcf8f0983c84cc574133e10]{
 -- Page 20, Offset 2181.
 -- 「バカ、すげえ楽しいってきっと！　そりゃパチもんくさいけどカニ缶とか食い放題なんだぜ!?　サバ缶じゃなくて！」
-「Idiot, ce sera sûrement trop amusant ! C'est vrai que ça pue la pâtée pour chat, mais au moins, tu peux manger du crabe en conserve à volonté ! Et c'est pas du maquereau !」
+「Espèce d'idiot, ce sera sûrement super amusant ! C'est vrai que ça pue la pâtée pour chat, mais au moins, tu peux manger du crabe en conserve à volonté ! Et c'est pas du maquereau !」
 
 }
 [sha:ee76fdbbab97241bd1e12d2dc5f82ef817674082]{

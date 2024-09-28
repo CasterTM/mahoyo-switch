@@ -667,7 +667,7 @@ Tobimaru ne pouvait que se raccrocher à un faible espoir dans la réaction d'Ao
 [sha:07bd85c9c20ae3b318340eb2bc4b55bc4f60c13f]{
 -- Page 27, Offset 2783.
 -- 「なるほどね、それでさっきの話に結びつくワケだ。
-「Je vois. C'est pour ça que tu en es venu à la conversation de tout à l'heure.
+「Je vois. C'est pour cette raison que tu en es venu à la conversation de tout à l'heure.
 
 }
 [sha:17e8d35941ca00920bdeedebca7b58117aa482aa]{
@@ -703,7 +703,7 @@ Tobimaru ne pouvait que se raccrocher à un faible espoir dans la réaction d'Ao
 [sha:acc1e5dc36d7a9b12d1339c4d4058416900040a5]{
 -- Page 28, Offset 2789.
 -- 笑顔のくせに殺気を放つのは止めてほしい。
-  Il aurait aimé qu'elle arrête d'émettre une aura meurtrière tout en souriant.
+  Il aurait aimé qu'elle arrête d'émettre une aura meurtrière tout en faisant un sourire angélique.
 
 }
 [sha:86fcb07b57d6cc57d6cca1c3d4e3060b00021ceb]{

@@ -157,7 +157,7 @@
 [sha:e354027777769f5bf179f9d0ac9abaa5bd13f4a9]{
 -- Page 8, Offset 2902.
 -- 草ちゃん、いまのところ的中率百パーセントでしょ。様子見てきてくれないかなぁ」
-  Mon Petit Sō, jusqu'à maintenant, ton taux de capture était de 100 %, pas vrai ? Tu veux bien aller voir ?」
+  Mon petit Sō, jusqu'à maintenant, ton taux de capture était de 100 %, pas vrai ? Tu veux bien aller voir ?」
 
 }
 [sha:53f4f4bb0d1a3bc0fa0c1dfcf770de9bbf35c7b7]{
@@ -241,7 +241,8 @@
 [sha:5313349ba8a5e806e1eeebb7098e8766d720c241]{
 -- Page 12, Offset 2916.
 -- 一階の百台に対して二階のゲーム台の数は八十あまり。空席はちらほらとあるものの、夕方にしては客入りは良好だろう。
-  Contrairement au rez-de-chaussée et à ses cent appareils, le nombre de machines au premier étage était d'environ quatre-vingts. Il y avait des sièges vides ici et là, mais pour une soirée, le nombre de clients était convenable.
+  Contrairement au rez-de-chaussée et à ses cent appareils, le premier étage comptait environ quatre-vingts machines. Il y avait des sièges vides ici et là, mais pour une soirée, le nombre de clients était convenable.
+  
 
 }
 [sha:20181d980f9d22af0c5422548adb95e8f197b642]{
