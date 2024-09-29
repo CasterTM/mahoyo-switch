@@ -181,7 +181,7 @@
 [sha:6ab5276653ab64a234db625e2d89b07bf29ee4f3]{
 -- Page 11, Offset 3618.
 -- 青子は封筒を手にし、中の書類に目を通す。
-  Aoko prit l'enveloppe et commença à parcourir les documents à l'intérieur.
+  Aoko saisit l'enveloppe et commença à parcourir les documents à l'intérieur.
 
 }
 [sha:fd5b1e343998c0a254947b4bedcb05eb95c90043]{
@@ -589,7 +589,7 @@ Ils discutaient avec ferveur et passion de la façon la plus agréable de profit
 [sha:3458dc1a88542a3d8c502baec09c30e2bffeacbd]{
 -- Page 31, Offset 3686.
 -- お嬢様学園と名こそ響いているが、実際にはそうお目にかかれない礼園女学院の制服だ。
-  Les mots “académie pour jeunes filles” sonnaient bien, mais en toute franchise, on ne voyait pas souvent l'uniforme de l'académie pour fille Reien.
+  Les mots “académie pour jeunes filles” sonnaient bien, mais en toute franchise, on ne voyait pas souvent l'uniforme de l'académie pour filles Reien.
 
 }
 [sha:f378b5b3fe87d4345dac0001d22f8cad5d2131e3]{
@@ -745,7 +745,7 @@ Aoko.
 [sha:2a26584463832a1eef1be75ac0e9eef3df7a2d9c]{
 -- Page 39, Offset 3712.
 -- 「おい、押すなよ、うしろのヤツどけって！　オレ校舎に逃げるから！」
-「Hé, poussez pas ! Poussez-vous derrière ! Je veux m'enfuir dans l'école !」
+「Hé, poussez pas ! Poussez-vous derrière ! Je veux pouvoir m'enfuir dans l'école !」
 
 }
 [sha:f97e2e76de3fb736c165bebe2dfaf8413c73ce9b]{
@@ -991,7 +991,7 @@ Aoko s'adressa à eux.
 [sha:7fcfbbd356080e5cdb638f00824415a6e66b5b91]{
 -- Page 48, Offset 3753.
 -- 会話はそれで打ち止めになり、あとは冷たい風に耐えるだけである。
-  La conversation prit fin ainsi. Il ne restait plus qu'à résister au vent glacial.
+  La conversation prit fin là-dessus. Il ne restait plus qu'à résister au vent glacial.
 
 }
 [sha:ae03793800e9d3ec6c8fd65ff7332b50dcee3fe8]{
@@ -1075,7 +1075,7 @@ Aoko s'adressa à eux.
 [sha:770125c273c4652423e0727a069b283fed7a8c1c]{
 -- Page 53, Offset 3767.
 -- 有珠に背中を向けて、青子はキッと、やってきた生徒を見据える。
-  Tournant le dos à Alice, Aoko regarda sévèrement l'élève qui s'approchait.
+  Tournant le dos à Alice, Aoko dévisagea sévèrement l'élève qui s'approchait.
 
 }
 [sha:a85d27f4178eafc3a51020b6684d09890d60a732]{
@@ -1327,7 +1327,7 @@ Et sinon ? Le club de natation ? Tu penses t'en sortir ?」
 [sha:f3c838195d0dfa78fa0bfe9d0b32b332186beb3a]{
 -- Page 66, Offset 3809.
 -- 「……静希君。昨日の私の質問は覚えてる？　走るのか泳ぐのか、どっちがいいかってヤツ。
-「...... Shizuki. Tu te rappelles ma question d'hier ? Celle où je te demandais si tu préférais courir ou nager.
+「...... Shizuki. Tu te rappelles de ma question d'hier ? Celle où je te demandais si tu préférais courir ou nager.
 
 }
 [sha:215ef0d56171dd995994d4c0b6c200070b046871]{
@@ -1429,7 +1429,7 @@ Et sinon ? Le club de natation ? Tu penses t'en sortir ?」
 [sha:8de081de5d08f8deede194ac6ba21324545df78a]{
 -- Page 70, Offset 3826.
 -- それより……静希君はどう見える？　私、そんなに疲れて見えるのかな」
-  À part ça...... Shizuki, tu en penses quoi ? Est-ce que je semble fatiguée ?」
+  À part ça...... Shizuki, tu en penses quoi, toi ? Est-ce que je semble fatiguée ?」
 
 }
 [sha:40a8d028cc1bc6428ce03feb6fa5b9714883e19b]{
@@ -1747,7 +1747,7 @@ Et sinon ? Le club de natation ? Tu penses t'en sortir ?」
 [sha:eb77b0378c7ad43d843ffd82a5bc485c6f429be9]{
 -- Page 86, Offset 3879.
 -- なにしろ相手は強い生き物だ。人間側の勝手な言い訳であれ、銃を使うことへの罪悪感は薄れてくれる。
-  Après tout, l'adversaire était une créature redoutable. Même si ce n'était qu'une excuse purement égoïste, les scrupules d'utiliser un fusil diminuaient.
+  Après tout, l'adversaire était une créature redoutable. Même si ce n'était qu'une excuse purement égoïste, cela atténuait les scrupules d'utiliser un fusil.
 
 }
 [sha:12624b97141b402ddcc2ad085da42b6429decfa2]{

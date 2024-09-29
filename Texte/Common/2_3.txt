@@ -385,7 +385,7 @@ mais si même un type comme toi commence à raconter des bêtises, en qui pourra
 [sha:af843aba34e2d846c08b6b6192e5cea7ea6f15ba]{
 -- Page 17, Offset 2565.
 -- 都会の生活を“今までの生活では全てありえなかった事”と感じる彼だからこそ、逆説的に、“起こりえる事は全てありえる事”に取ってしまう。
-  Il y avait tellement de choses dans sa vie citadine qui lui auraient semblé impossibles dans sa vie précédente que, paradoxalement, il prenait la ville pour un lieu où littéralement tout pourrait arriver.
+  Il y avait tellement de choses dans sa vie citadine qui lui auraient semblé impossibles dans sa vie précédente que, paradoxalement, il prenait la ville pour un lieu où littéralement tout pouvait arriver.
 
 }
 [sha:9abbdbc3302f50d0bf743e64a309130535377d86]{

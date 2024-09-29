@@ -421,7 +421,7 @@ Pour prendre quelqu'un en chasse, il me faudra donc faire avec l'environnement..
 [sha:8f5962812a9910584450b06aaeedc14d75bdffe1]{
 -- Page 21, Offset 3521.
 -- ページに栞を挟んで、部屋に持ち帰ろうと立ち上がる。
-  Elle plaça un marque-page, et se leva pour le rapporter dans sa chambre.
+  Elle plaça un marque-page et se leva pour rapporter le livre dans sa chambre.
 
 }
 [sha:f1c2dde5922af65728d80bba40a41fb5a278fb0c]{
@@ -433,7 +433,7 @@ Pour prendre quelqu'un en chasse, il me faudra donc faire avec l'environnement..
 [sha:58325e260e9d2a13296dd707852cf51e634ec11d]{
 -- Page 22, Offset 3523.
 -- 夜を<透|とお>す窓に、冷めきった目の少女が映っている。
-  Ses yeux froids se reflétaient sur la fenêtre qui laissait voir la nuit dehors.
+  Ses yeux froids se reflétaient sur la fenêtre qui laissait voir la nuit au-dehors.
 
 }
 [sha:706554a62bc6d151637243d534f7810532c1bf07]{

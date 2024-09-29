@@ -43,7 +43,7 @@
 [sha:8e338e8faa804f33406007ddc9c9cac7c36bf944]{
 -- Page 2, Offset 3178.
 -- 万能なようでわりと<窮屈|きゅうくつ>。
-  Même s'ils ont l'air d'être tout-puissants, ils sont en fait assez étroits d'esprit.
+  Même s'ils ont l'air tout-puissants, ils sont en fait assez étroits d'esprit.
 
 }
 [sha:492e3ae660745a94828a69418a432dd2d97cb407]{
@@ -349,7 +349,7 @@ Apparemment, mes aptitudes en tant que Magicienne sont excellentes dans une cert
 [sha:b259c1be2bc4500082d0b1b1c5bfa47f56b58873]{
 -- Page 21, Offset 3229.
 -- 「いくわよ。<伊|ダ><達|テ>に生徒会に勤めてないわ。その程度のデータは揃えてある。
-「Oui. Je ne suis pas présidente du conseil étudiant pour rien. J'avais déjà réuni toutes ces informations.
+「Oui. Je ne suis pas présidente du conseil étudiant pour rien. J'avais déjà réuni toutes les informations nécessaires.
 
 }
 [sha:da72066f18384ea00ed13fe2bc57269265a1d817]{
@@ -535,7 +535,7 @@ J'ai vérifié non seulement là où ils travaillent au cours du mois, mais auss
 [sha:6b13f7d35a40862c1bd66de8b774f82759669059]{
 -- Page 31, Offset 3260.
 -- 閉じたい場所を、どのような手段であれ外界から<遮断|しゃだん>した状況を結界と呼ぶ。
-  On appelle Barrière un périmètre dans lequel la zone que l'on veut enfermer est isolée du monde extérieur, peu importe la méthode employée.
+  On appelle Barrière un périmètre dans lequel la zone que l'on veut enfermer est isolée du monde extérieur, quelle que soit la méthode employée.
 
 }
 [sha:8613df7065bb99157f6d2a650c5b2f964eb5112a]{
