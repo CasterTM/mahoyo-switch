@@ -109,7 +109,7 @@
 [sha:5b604872c4d8202da120b3de20678e5d210f24f7]{
 -- Page 6, Offset 5060.
 -- これが人形の腕であったのなら魔力の壁はたやすく突破されただろうが、実像のない“呪い”だからこそ、魔力の壁に弾かれる。
-  Si la marionnette avait attaqué avec son bras, elle aurait très facilement percé ce mur de prana. Cependant, comme il s'agissait d'une “malédiction” sans substance réelle, elle avait pu les faire rebondir dessus.
+  Si la marionnette avait attaqué avec son bras, elle aurait très facilement percé ce mur de prana. Mais comme il s'agissait d'une' “malédiction” sans substance réelle, Aoko avait pu la faire rebondir dessus.
 
 }
 [sha:95ad545d10b1e611c591780ad304f3773434e2c9]{
@@ -229,7 +229,7 @@
 [sha:0c893d3e59aa2d8f5463d50d2b9456cbf515303e]{
 -- Page 13, Offset 5080.
 -- 「……よし。ここまでくれば少しは休めるな」
-「...... Bien. Avec cette distance, on peut se reposer un peu.」
+「...... Bien. À cette distance, on peut se reposer un peu.」
 
 }
 [sha:b548981ada2d418f33dc4fa45e8341fc4239741e]{
@@ -247,7 +247,7 @@
 [sha:208038ef0d6213babfe3b75f6f6efaf1dd1b14a8]{
 -- Page 13, Offset 5083.
 -- その顔を、青子は理解不能とばかりに見あげている。
-  Aoko avait les yeux rivés sur son visage avec un air de totale incrédulité.
+  Aoko avait les yeux rivés sur son visage et affichait un air de totale incrédulité.
 
 }
 [sha:7ecc42bc619135aae3cf20e979bc3253c2d361fb]{

@@ -175,7 +175,7 @@
 [sha:3a9032f2f1b0be162d032780f3d8d93b36f98782]{
 -- Page 8, Offset 5171. Glued. Mods: @x.
 -- 青子の武器はトンカチ以上、バット未満の<細腕|ほそうで><鈍器|どんき>だ。近づく事が前提の時点で、この上なく頼りない。
-La seule arme qu'elle pouvait recréer pour l'heure était un marteau, son bras fin étant ainsi devenu une arme contondante moins large qu'une batte. Et comme le prérequis à son emploi était de se rapprocher, son usage était des plus risqués.
+La seule arme qu'elle pouvait recréer pour l'heure était un marteau avec son bras fin devenu une arme contondante moins large qu'une batte. Et comme le prérequis à son emploi était de s'approcher, son usage était des plus risqués.
 
 }
 [sha:4d73ad04e7aa9299fae2eef0cf7a100665595591]{
@@ -325,7 +325,7 @@ La seule arme qu'elle pouvait recréer pour l'heure était un marteau, son bras 
 [sha:6f1005a461a7169fa3d84dffd6fbd6fc18a4bb1e]{
 -- Page 16, Offset 5196.
 -- ……二回。彼女の予測は時に現実よりも現実的だ。
-  ...... Deux fois. Parfois, ses prédictions étaient plus réalistes que la réalité.
+  ...... Deux fois. Parfois, ses prédictions étaient plus réalistes que la réalité elle-même.
 
 }
 [sha:6bb9344aafb235b9ab636cdf75db6729a23e8ac5]{

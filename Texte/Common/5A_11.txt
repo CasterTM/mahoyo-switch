@@ -577,7 +577,7 @@ Hein ? Aaah ?!」
 [sha:9f26c009b507a0aa9c0b24150e8280d73af02e61]{
 -- Page 28, Offset 4224.
 -- 目の前に落ちてきた天井の衝撃で、青子は正しい意識を取り戻した。
-  En voyant le plafond tomber juste sous ses yeux, Aoko reprit ses esprits.
+  En voyant le plafond tomber juste devant elle, Aoko reprit ses esprits.
 
 }
 [sha:b6c6ef4300f3a81958aafc00e74ccc5fff7cc0c4]{

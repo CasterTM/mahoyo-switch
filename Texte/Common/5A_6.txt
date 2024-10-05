@@ -541,7 +541,7 @@ C'est juste que pour la marionnette, ce n'est pas grand-chose.」
 [sha:8e016838bdabdb8f946a3aff2ef1465e36dc4079]{
 -- Page 23, Offset 5018.
 -- 「え？　もしかして、他でも自動人形を見た事あるとか！？」
-「Hein ? Est-ce que tu aurais déjà vu d'autres marionnettes automatiques ?!」
+「Hein ? Tu avais déjà vu d'autres marionnettes de ce genre ?!」
 
 }
 [sha:5652e134845b3d577ad3e92ee3ed241b483c78cc]{

@@ -139,7 +139,7 @@
 [sha:f0826c13ff92318a0fb11b60a7b680d6d310b3d2]{
 -- Page 6, Offset 6007.
 -- 本当に<そ|・><こ|・><ま|・><で|・><同|・><じ|・>であるなら、まさしく異名に恥じない怪物だ。
-  S'il était capable de pousser la similitude avec la lune à ce point, ça signifiait qu'il était à la hauteur de tous les surnoms qu'on lui avait attribués.
+  S'il était capable de pousser la similitude avec la lune jusqu'à ce point, ça signifiait qu'il était à la hauteur de tous les surnoms qu'on lui avait attribués.
 
 }
 [sha:51bbee88317e4bf3a26471e63bbc5d33e03a6157]{
@@ -469,7 +469,7 @@
 [sha:35ef6d2eed4e1f8eda727241ec007ce00db44eaa]{
 -- Page 21, Offset 6062.
 -- <第一|はじまり>より<別|わか>たれた、この世でもっとも大きな虚構！
-  La plus grande légende jamais contée en ce monde depuis la nuit des temps !
+  La plus grande légende jamais contée depuis la nuit des temps !
 
 }
 [sha:d0c0cbda66c664678ae35379abb9798b813a2d8b]{

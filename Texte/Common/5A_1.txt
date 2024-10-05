@@ -13,7 +13,7 @@
 [sha:59d9ce1875b590f34dbcb0e0ef6515ede797dc84]{
 -- Page 2, Offset 3921.
 -- アパートの塀に置かれた自転車をチラリと見て、
-  Il regarda à la dérobée la bicyclette posée contre la clôture de l'immeuble.
+  Il regarda à la dérobée la bicyclette posée contre la clôture entourant l'immeuble.
 
 }
 [sha:d873cbd0e6e4daa078f23837aad196b8c9274db8]{

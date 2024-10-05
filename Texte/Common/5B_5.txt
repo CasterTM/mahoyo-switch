@@ -547,7 +547,7 @@ Leur hésitation ne pouvait pas avoir été provoquée par une simple erreur sur
 [sha:337a3c435ad91717341aca8ad928ade4dd365a9c]{
 -- Page 29, Offset 6980.
 -- 「頼りにしてくれるのは嬉しいけど、ぬか喜びよ。
-「Ça me fait plaisir que tu aies autant confiance en moi, mais ne te réjouis pas trop vite.
+「Ça me fait plaisir que tu aies à ce point confiance en moi, mais ne te réjouis pas trop vite.
 
 }
 [sha:03f88dfcee048341948b5e3d40095059ba028108]{
@@ -637,7 +637,7 @@ Ils sont capables de reproduire des histoires fantastiques surréalistes, des ab
 [sha:69362d0295a790f676f6524cdc6c9138626dfc3d]{
 -- Page 33, Offset 6995.
 -- 前提からしてあり得ない事だから、通常の物理法則と折り合いが悪い。空想と現実は両立しないっていう、ごく当たり前の理由でね」
-  Ce sont des choses déjà improbables en soi, c'est pourquoi elles interagissent mal avec les lois de la physique. Pour une raison très simple : l'imaginaire et la réalité ne peuvent coexister.」
+  Ce sont des choses déjà improbables en soi, c'est pourquoi elles interagissent mal avec les lois de la physique. Et ce pour une raison très simple : l'imaginaire et la réalité ne peuvent coexister.」
 
 }
 [sha:3c5b1143292da39b4ca886b39cdb862610358841]{

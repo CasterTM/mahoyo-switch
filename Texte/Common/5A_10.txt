@@ -301,7 +301,7 @@
 [sha:66cc5c8d15b3b9cec5da112604c9664d8774415c]{
 -- Page 14, Offset 4063.
 -- 加えて、建物が揺れだしたら全力で出口まで走れ、という無茶な注文付き。
-  Par-dessus le marché, elle avait ajouté une instruction absurde qui stipulait qu'il devrait courir à toutes jambes dès que le bâtiment tremblerait.
+  Par-dessus le marché, elle avait ajouté une instruction absurde qui stipulait qu'il devrait courir à toutes jambes dès que le bâtiment se mettrait à trembler.
 
 }
 [sha:e02242d4a709809d6f6cc6cd64f0eb04e85791ed]{

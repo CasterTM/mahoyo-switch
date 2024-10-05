@@ -391,7 +391,7 @@
 [sha:765b82be70d41e3e160f7520848e6ed46806a0d7]{
 -- Page 18, Offset 6390. Glued. Mods: @x.
 -- いや、間に合うハズもなし、駆け下りたところで入り口には大量の焼きたてパンがいる。
-  Non, il ne pourrait pas y arriver à temps, et même s'il courait en bas jusqu'à l'entrée, il y avait là un grand nombre de pains grillés.
+Non, il ne pourrait pas y arriver à temps, et même s'il courait en bas jusqu'à l'entrée, il y avait là un grand nombre de pains grillés.
 
 }
 [sha:c0c11acc2bedcae601641aa4f36bfe390ab9aa03]{

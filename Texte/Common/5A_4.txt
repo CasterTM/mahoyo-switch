@@ -703,7 +703,7 @@ Et alors qu'il était sur le point de s'arrêter net en pensant que ça ne pouva
 [sha:83b374dfa363012ef95bbbb2a247099d2fafca52]{
 -- Page 35, Offset 4751.
 -- 肉体的にも精神的にもまだ余裕はある。
-  Il avait encore de la marge, autant physiquement que mentalement parlant.
+  Il avait encore de la marge, aussi bien physiquement que mentalement parlant.
 
 }
 [sha:21d96230e69952cdea5b9a7aa3b1aa8e1b562b6b]{
@@ -877,7 +877,7 @@ mais sans exagérer, elle représentait pour lui l'erreur de toute une vie.
 [sha:2fc7e81b7ddd84311b64d67c092c96eb9ce47d4f]{
 -- Page 43, Offset 4780.
 -- どこか寂しい願いと、諦めのまざった顔。
-  Son visage semblait exprimer un souhait un peu triste et de la résignation.
+  Son visage semblait exprimer à la fois un souhait un peu triste et de la résignation.
 
 }
 [sha:9be317d4cd9fefa16175f04b4f14668628ad5dcd]{
@@ -949,7 +949,7 @@ Même s'il était nonchalant, c'était un garçon honnête avec ses sentiments.
 [sha:086ef45d476dfdc1c887804bf2c5be58da9c0d9b]{
 -- Page 46, Offset 4792.
 -- 「そりゃ恐いでしょう。私だって恐いと思うし。
-「C'est normal que ça fasse peur. Même moi, je pense que c'est effrayant.
+「C'est normal que ça fasse peur. Même moi, je pense que c'est plutôt effrayant.
 
 }
 [sha:7e0fbc5a0c5688793f5ac0d790b0a6a0ae3d1385]{

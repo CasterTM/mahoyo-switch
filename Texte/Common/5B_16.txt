@@ -762,7 +762,7 @@ sans la moindre raison valable, elle fit preuve d'une violence inouïe.
 [sha:a0c9f4f7ccc46e707569a30236967930ddf413c1]{
 -- Page 34, Offset 6650.
 -- 眠るように……と表現するにはやや苦しい、苦悶に歪んだ寝顔だが、これは気絶ではなく眠ったのだ、と青子は強引に解釈するコトにした。
-  Il avait l'air souffrant, le visage un peu trop déformé par la douleur pour que l'on puisse dire qu'il dormait, mais Aoko préféra quand même penser qu'il n'avait pas perdu connaissance et qu'il s'était tout simplement assoupi.
+  Il avait l'air souffrant, le visage un peu trop déformé par la douleur pour que l'on puisse dire qu'il dormait, mais Aoko préféra quand même penser qu'il n'avait pas perdu connaissance et qu'il s'était juste assoupi.
 
 }
 [sha:7fc80d1f9c095823608c7e8a88b07ace410efbb9]{

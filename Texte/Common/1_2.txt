@@ -805,7 +805,7 @@ Mais qu'est-ce qu'il entendait au juste par “spécial” ?
 [sha:6950ea0a9ff8d4b0a2a84a21fc3ade5cfb4930f5]{
 -- Page 40, Offset 279.
 -- ロビンソンにも程がある……！』
-  Comment peut-on encore vivre comme Robinson Crusoé à notre époque......!』
+  On dirait Robinson Crusoé......!』
 
 }
 [sha:66ab594a63f3a8d4492350c9681ea0243c6c1ee4]{
