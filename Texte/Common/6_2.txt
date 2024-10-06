@@ -91,7 +91,7 @@
 [sha:34ccd91e42c7c684c246fc9c7bd4cf9a14d72ab2]{
 -- Page 3, Offset 7413.
 -- そんな詩的な感想を、草十郎をして抱かせるほどの。
-  C'était amplement suffisant pour que Sōjūrō trouve cette scène poétique.
+  C'était amplement suffisant pour que Sōjūrō trouve la scène poétique.
 
 }
 [sha:09cdf3ad3a299a031167bab9c2344284fb42c6bd]{
@@ -247,7 +247,7 @@
 [sha:2b52777c5bfe63704e1ec3f8fff50fd789f1daa5]{
 -- Page 10, Offset 7439.
 -- 草十郎はベッドに横になったまま、動かした首を戻す事もできず、かといって気のきいた台詞も浮かばず、少女と無言で見つめあう。
-  Sōjūrō, étendu sur le lit, regardait la fille dans les yeux, silencieusement, sans oser tourner la tête, et sans que le moindre mot ne lui vienne à l'esprit.
+  Sōjūrō, étendu sur le lit, regardait la fille dans les yeux, silencieusement, sans oser tourner la tête vers elle, et sans que le moindre mot ne lui vienne à l'esprit.
 
 }
 [sha:e714a2b7dc0bf953b9e0a82ee075b0e5367d195c]{
@@ -703,7 +703,7 @@
 [sha:a8f44aa374e99ad07e04ac18e1620d89e4fcb702]{
 -- Page 32, Offset 7515.
 -- まだベッドの上に横たわってはいるものの、幾分ましな姿勢になっている。
-  Même s'il était toujours allongé sur le lit, c'était déjà une meilleure posture.
+  Même s'il était toujours allongé sur le lit, c'était déjà une position plus confortable.
 
 }
 [sha:0cc3058bffeb5af465fa6fe58ce6b11436a18624]{

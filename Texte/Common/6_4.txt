@@ -769,7 +769,7 @@ Tu te trompes sur pas mal de points !」
 [sha:458de0264a00e8f431c9a08f7b4a3b7b74e3439b]{
 -- Page 38, Offset 7707.
 -- 実のところ、青子も監獄じみた拘束をする気はない。
-  En réalité, elle non plus n'avait pas l'intention de le restreindre comme dans une prison.
+  En réalité, elle ne comptait pas le restreindre comme dans une prison.
 
 }
 [sha:e76d78663510c4c5851253d730c05d45e86822af]{

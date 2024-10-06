@@ -127,7 +127,7 @@ Et toi aussi !」
 [sha:56afc4c3b1cdb9d0ed19831505c291741026dd98]{
 -- Page 7, Offset 8016.
 -- 言われてみればその通りだ。
-  Maintenant qu'elle le faisait remarquer, c'était effectivement un problème.
+  Maintenant qu'elle le faisait remarquer, c'était effectivement un problème important.
 
 }
 [sha:2790e51d39a1330c5afbf39b7252df59be6fe782]{
@@ -943,7 +943,7 @@ Mais je pense que faire du feu sans outil relève du divin.」
 [sha:807a8ef0c72c328ad3c0ca5a019532eeb35565f7]{
 -- Page 51, Offset 8152.
 -- 言いかけて、はてな、と草十郎は視線を泳がす。
-  Sōjūrō laissa flotter son regard, se demandant ce qu'il pouvait y avoir d'autre.
+  Sōjūrō laissa flotter son regard, se demandant ce qu'il pouvait bien y avoir d'autre.
 
 }
 [sha:aaac24337af05971daf2e3885084ec2f4c434bad]{
@@ -973,7 +973,7 @@ D'abord, pourquoi Sōjūrō avait vu quelque chose qu'il fallait à ce point gar
 [sha:9ae9af7d041f695e92ecb9399972849881d7487f]{
 -- Page 52, Offset 8157.
 -- 魔術師は協会という組織で結ばれてるんだろう？　なら、どうして蒼崎はあんな人形に襲われたんだ？
-  Les Mages sont liés à l'organisation que vous appelez l'Association, pas vrai ? Dans ce cas, pourquoi tu as été attaquée par cette marionnette ?
+  Les Mages sont liés à l'organisation que vous appelez l'Association, hein ? Dans ce cas, pourquoi as-tu été attaquée par cette marionnette ?
 
 }
 [sha:624fc1200d18643e5f64157cf8637a2b19aeaae7]{
@@ -1351,7 +1351,7 @@ Même si on a un pacte avec l'Association, ce n'est pas pour autant qu'ils nous 
 [sha:a3188939e5e7a6debf3d37ff4fd666c6953436bc]{
 -- Page 73, Offset 8220.
 -- 蒼崎たちは土地の奪い合いをしているんだな？」
-En d'autres termes, vous vous battez pour ces terres ?」
+  En d'autres termes, vous vous battez pour ces terres ?」
 
 }
 [sha:a54fa6eaedb0fe841234fa9594780e8c98a82886]{
