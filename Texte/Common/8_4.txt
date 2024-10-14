@@ -13,7 +13,7 @@
 [sha:71542d5c5e1b5d5f6171aeac0d4b26d6972a675e]{
 -- Page 0, Offset 10943.
 -- 去年あたりから二十四時間営業のコンビニエンスストアがぽつぽつと現れてはいるが、三咲町は古き良き八十年代前期の色が濃い。
-  Depuis l'année précédente, les supérettes ouvertes 24h/24 apparaissaient peu à peu, mais la bonne vieille ambiance du début des années 80 restait prononcée dans le vieux quartier de Misaki.
+  Depuis l'année précédente, les supérettes ouvertes 24 h/24 apparaissaient peu à peu, mais la bonne vieille ambiance du début des années 80 restait prononcée dans le vieux quartier de Misaki.
 
 }
 [sha:c2156379da89ad7c51d0d06b7739f95836807966]{

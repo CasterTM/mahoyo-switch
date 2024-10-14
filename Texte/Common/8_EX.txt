@@ -355,7 +355,7 @@ Il espère passer sa thèse en se contentant de copier un manuscrit soumis il y 
 [sha:ec0429f43e52579b8c56f13d1c7412da7513c71f]{
 -- Page 17, Offset 11421.
 -- あ、Ｂ組の山瀬さんたち誘う？　たしか去年も冬休みに上京してたでしょ、彼女ら」
-  Tiens, qu'est-ce que tu dirais d'inviter Yamase et les autres de la classe B ? Si je me souviens bien, aux vacances de Noël de l'année dernière, elles étaient montées à Tokyo, non ?」
+  Tiens, que dirais-tu d'inviter Yamase et les autres de la classe B ? Si je me souviens bien, aux vacances de Noël de l'année dernière, elles étaient montées à Tokyo, non ?」
 
 }
 [sha:4f87398d69d195d028607ff77cf55ca74ee81efc]{
@@ -1237,7 +1237,7 @@ Ou plutôt qui se grattait la tête.
 [sha:6742dce8c9d44f4a6fc22a44cbe13c4a02c03107]{
 -- Page 68, Offset 11572.
 -- 草十郎。そもそもナンパって言葉がなんなのか、知ってるか？」
-  Sōjūrō. En premier lieu, est-ce que tu sais ce que veut dire le mot draguer ?」
+  Sōjūrō. En premier lieu, est-ce que tu connais le sens du mot draguer ?」
 
 }
 [sha:8a3a8a415d20948c81872eba0c377dff5864c5c6]{
@@ -1765,7 +1765,7 @@ La deuxième ?」
 [sha:6533077dccb1d40c29754f2aa95ee08cd919c4ac]{
 -- Page 94, Offset 11660.
 -- ちょっとした触りだけなら怒らないわよね、有珠？」
-  Survoler un peu le sujet ne nous attirera pas tes foudres j'espère, Alice ?」
+  Survoler un peu le sujet ne devrait pas nous attirer tes foudres, Alice ?」
 
 }
 [sha:9cac34a71d0ba282b0b7f2bf7b1c115a922663c3]{
@@ -2641,7 +2641,7 @@ Puisque tu ne dis rien, dois-je en conclure que gagner de l'argent avec la Magie
 [sha:6a40d6b0c0345ae0ce6aa69a34f89fe0d3aadd4e]{
 -- Page 142, Offset 11806.
 -- 「ダメだ。正しい生活を送るには、正しい役割を把握しないと。こういう風に書いておけば、後になっても忘れないだろ？」
-「Hors de question. Pour mener une vie honnête, il faut comprendre nos rôles. En inscrivant tout sur le tableau, on n'oubliera rien, vous comprenez ?」
+「Hors de question. Pour mener une vie honnête, il nous faut comprendre nos rôles. En inscrivant tout sur le tableau, on n'oubliera rien, vous comprenez ?」
 
 }
 [sha:39aa225358bfe78ddba3a1b181d3b4564c9cbea0]{

@@ -241,7 +241,7 @@ Elle avait des réticences à laisser entrer un garçon de son âge dans sa cham
 [sha:074e074289f0079204d4ceaeab68b198c75d0748]{
 -- Page 12, Offset 9211.
 -- 「ちょっとは落ち着きなさいよ。いつもは耳の遠い大型犬みたいに鈍感なクセに。何か気になるものでもあるの？」
-「Calme-toi un peu. D'habitude, tu es aussi lourd qu'un gros chien dur d'oreille. Il y a quelque chose qui te perturbe ?」
+「Calme-toi un peu. D'habitude, tu es aussi pataud qu'un gros chien dur d'oreille. Il y a quelque chose qui te perturbe ?」
 
 }
 [sha:e93a6ff10df7727248cc2a7499a1e5f1181d70be]{

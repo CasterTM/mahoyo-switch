@@ -19,7 +19,7 @@
 [sha:4cc1ba08756e42124f944952ef495805aab75587]{
 -- Page 1, Offset 10859.
 -- びっくり箱に驚いた時のような、
-  Avec l'esprit vide, comme lorsque l'on sursaute face à un diable à ressort,
+  Avec l'esprit vide, comme lorsqu'on sursaute face à un diable à ressort,
 
 }
 [sha:c6cc90e0651918e49f6e93768cefcd3a4d65939f]{

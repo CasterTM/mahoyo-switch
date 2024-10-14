@@ -1,7 +1,7 @@
 [sha:c95e1475f4a9b8c022e5fbeaba8d02db3cae18b8]{
 -- Page 0, Offset 9464.
 -- 二日目の期末試験が終わって、草十郎はひとり洋館への帰路についた。
-  Après la fin du deuxième jour d'examen, Sōjūrō rentra tout seul au manoir.
+  Après la fin du deuxième jour d'examen, Sōjūrō rentra seul au manoir.
 
 }
 [sha:ebdd4bc92e8505f55b5e2c23cfc21d5eb06ddd51]{

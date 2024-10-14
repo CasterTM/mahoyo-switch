@@ -313,7 +313,7 @@ Bref, ce truc qui ressemble à un étang est complètement gelé !
 [sha:a66b9c5bf5b8e5de53d5e8477bbcd41284704194]{
 -- Page 17, Offset 10486.
 -- 手に持っている物が竹ぼうきではなくクマデなのがまたらしい。
-  Ce qu'il tenait dans la main n'était pas un balai en bambou, mais un râteau.
+  Et ce qu'elle tenait dans la main n'était pas un balai en bambou mais un râteau.
 
 }
 [sha:64d6c1e1a0e0c2b617d445773fc87a76d84d133e]{
@@ -367,7 +367,7 @@ Bref, ce truc qui ressemble à un étang est complètement gelé !
 [sha:60bc8a256d0c974433f5124b4bef68fb76f19b9a]{
 -- Page 20, Offset 10495.
 -- これでも学園内限定で仲のいいコンビだった。
-  Même s'il n'y paraissait pas, ce duo s'entendait bien dans l'enceinte de l'école.
+  Même s'il n'en paraissait rien, ce duo s'entendait bien dans l'enceinte de l'école.
 
 }
 [sha:de0616fc0b2e7ac8c693619f6d5f52aec1601dbd]{
@@ -487,7 +487,7 @@ Bref, ce truc qui ressemble à un étang est complètement gelé !
 [sha:a05c9fe40369dd73e8bfdca5d9ff1a719f2de283]{
 -- Page 26, Offset 10515.
 -- 彼がちょっと記録に手を加えれば、木乃美は明日も明後日も清掃班に参加する事になる。
-  S'il ajoutait quelque chose dans le dossier de Kinomi, celui-ci devrait prendre part à l'équipe de nettoyage le lendemain ainsi que le surlendemain.
+  S'il ajoutait quelque chose dans le dossier de Kinomi, celui-ci devrait prendre part à l'équipe de nettoyage du lendemain et celle du surlendemain.
 
 }
 [sha:ab919c43fd3ce3b2bb49acf65c657b07f71eef8d]{

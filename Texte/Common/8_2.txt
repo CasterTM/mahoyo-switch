@@ -175,7 +175,7 @@
 [sha:1c5e72599d27b26befdb0012d0d0017a0d1bce79]{
 -- Page 9, Offset 10716.
 -- 期末試験が終わってからまだ二日しか経っていないのに、ひとりでこの森に入る事に慣れきった風である。
-  Il ne s'était écoulé que deux jours depuis la fin des examens semestriels ; néanmoins, il semblait déjà s'être habitué à rentrer seul par cette forêt.
+  Il ne s'était écoulé que deux jours à peine depuis la fin des examens semestriels ; néanmoins, il semblait déjà s'être habitué à rentrer seul par cette forêt.
 
 }
 [sha:e12f6f9504b0e910048e2b329250a427aff68b8f]{
@@ -325,7 +325,7 @@
 [sha:7b17038d2656e88a3ae46a86b029bd82df064342]{
 -- Page 18, Offset 10741.
 -- 「じゃあ<陶川|とうかわ>の<支点|してん>は？　あそこの柱は白色だし、そう簡単には奪われないでしょう？」
-「Alors, le Pivot de Toukawa ? Il est blanc, et puis, il devrait avoir du mal à s'en emparer, hein ?」
+「Alors, le Pivot de Toukawa ? Comme il est blanc, il devrait avoir du mal à s'en emparer, hein ?」
 
 }
 [sha:c5bb820d3045b63fc87cdddb8b4829568bc3206f]{
@@ -337,7 +337,7 @@
 [sha:aa1c1428da1bea2006cfdfe694adda035d3bb041]{
 -- Page 18, Offset 10743.
 -- 残りの割り出しは今までより早くなる」
-  Il devrait trouver bien plus rapidement la position des Pivots restants, à présent.」
+  Il devrait trouver assez vite la position des Pivots restants, à présent.」
 
 }
 [sha:23b3d868e489b1a25cc7608cb4e3b4bb7cd5a6ab]{
@@ -385,7 +385,7 @@
 [sha:3e241a45a52a4f8129493f28bb08a5e051079a84]{
 -- Page 20, Offset 10751.
 -- なのになんで結界に異常がないんだろう。三咲市一帯の索敵網は、もう百年近く破られた事がないのに」
-  Mais alors, pourquoi la Barrière n'a repéré aucune anomalie ? Le filet de recherche ennemi des environs de Misaki n'a pas été brisé une seule fois depuis près de cent ans.」
+  Mais alors, pourquoi la Barrière n'a repéré aucune anomalie ? Ça fait pourtant près de cent ans que le filet de recherche ennemi des environs de Misaki n'a pas été pris en défaut.」
 
 }
 [sha:a89877b9c99ecc834cfa8a96c4a824f4a6f180cc]{
@@ -619,7 +619,7 @@ Mais même si c'était le cas, un tel individu ne pourrait pas cacher sa présen
 [sha:a89805ab12afc02cf7258c55dbbcd3a4cbee10ff]{
 -- Page 33, Offset 10790.
 -- <目撃者|そうじゅうろう>の一件で中断されていた、彼女たち本来の責務……管理地を奪いに来た略奪者への対応、その排除である。
-  et leur devoir premier, temporairement suspendu par l'affaire de Sōjūrō : les mesures à adopter face au pilleur venu dérober les terres administrées ; en d'autres termes, son élimination.
+  et leur devoir premier, temporairement suspendu par l'affaire Sōjūrō : les mesures à adopter face au pilleur venu dérober les terres administrées ; en d'autres termes, son élimination.
 
 }
 [sha:3e21741a044d005fd7930b69e4dc239067d7a3cf]{
@@ -655,7 +655,7 @@ Il a profité de notre négligence pour s'emparer d'un de ses véritables object
 [sha:0f510652e8914f8b1bf40b668e8efc8338fbe08f]{
 -- Page 36, Offset 10796.
 -- 青子たちには、大きく分けて二つの結界の守りがある。
-  Pour résumer, Aoko et Alice disposaient de deux Barrières de protection.
+  Pour résumer grossièrement, Aoko et Alice disposaient de deux Barrières de protection.
 
 }
 [sha:513ceaf22e2b7ff9962ea027b928f79b89774310]{
@@ -949,7 +949,7 @@ J'ai bien réussi un sort de charme la dernière fois.」
 [sha:ea7f0157ed25d1ed08f7735dde39eab058c5537a]{
 -- Page 51, Offset 10845.
 -- ほら、有珠が教えてくれた、空<気のおも|かるく、よわく>り、胸<のふる|うまく、はやく>え。ひ<かりは先|チクタクチクタク>立つ、か<げは遅れ|いそげやいそげ>る。ってヤツ」
-  Tu sais, celui que tu m'as enseigné, le charme qui dit : <Poids de l'air, tremblement de la poitrine.|Légèrement, faiblement, habilement, rapidement> <La lumière en premier, l'ombre en second.|Tic tac tic tac, dépêche-toi, dépêche-toi>」
+  Tu sais, celui que tu m'as enseigné, le charme qui dit : <Poids de l'air,|Légèrement, faiblement,> <tremblement de la poitrine.|habilement, rapidement> <La lumière en premier,|Tic tac tic tac,> <l'ombre en second.|dépêche-toi, dépêche-toi.>」
 
 }
 [sha:8ac38b26ec66e27cb4913ae50467c25a4cfc3d8b]{

@@ -571,7 +571,7 @@
 [sha:fcdd2c4a5eb38d5f51c55e7ed8ea432b63485250]{
 -- Page 26, Offset 9795.
 -- けれど、彼が自分に対して強く、何かを願っているのは感じ取れる。
-  mais elle pouvait clairement percevoir qu'il souhaitait quelque chose d'elle.
+  mais elle pouvait clairement percevoir qu'il souhaitait quelque chose de sa part.
 
 }
 [sha:e1a67f2e1ec51ab05057132ca3a62c2e2f0862ed]{
@@ -739,7 +739,7 @@
 [sha:b4ec06ac404a7b241d026bb11017fe04c92551d9]{
 -- Page 34, Offset 9823.
 -- 「勝手になんて、わたしが許す筈がないでしょう。
-「Ce serait impossible qu'il vive ici sans mon autorisation, tu ne crois pas ?
+「Ce serait impossible pour lui de vivre ici sans mon autorisation, tu ne crois pas ?
 
 }
 [sha:03b3cb4d7834cf04540d4be14071f2f92a2d1ab5]{

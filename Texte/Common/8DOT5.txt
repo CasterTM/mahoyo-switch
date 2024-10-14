@@ -625,7 +625,7 @@ La joie que l'on procure aux gens semble compenser la mauvaise conscience.」
 [sha:2413ae260e60279314b28c66b91cd6aed1756ced]{
 -- Page 35, Offset 11933.
 -- 不本意ではあるが、青子は駒鳥に同意する。
-  Cela ne l'enchantait guère, mais Aoko était d'accord avec le rouge-gorge.
+  Cela ne l'enchantait guère, mais Aoko était plutôt d'accord avec le rouge-gorge.
 
 }
 [sha:2a3227a9dacbb2cbdad3fdc80c6a89cb4bef1d3d]{
@@ -1507,7 +1507,7 @@ Tant pis, je vais devoir agir dans l'ombre.」
 [sha:bfb9c436fbd49f8e3658e94d8ff67af36686ece3]{
 -- Page 80, Offset 12080.
 -- 利益目的で結びついた両者だが、槻司家の誤算は、一時だけと甘んじて迎え入れた喜実國の経営手腕が並々ならぬものだった事だろう。
-  Les deux partis s'étaient unis pour le profit, mais la famille Tsukiji avait fait une erreur de calcul : les compétences de management de l'homme qu'elle avait accueilli avec réticence pour un temps n'avaient rien d'ordinaire.
+  Les deux partis s'étaient unis pour le profit, mais la famille Tsukiji avait fait une erreur de calcul : les compétences de management de l'homme qu'elle avait accueilli en son sein avec réticence pour un temps n'avaient rien d'ordinaire.
 
 }
 [sha:482dabdd7e608226ab3aa1d41823731e40bd9c07]{
@@ -1843,7 +1843,7 @@ Tant pis, je vais devoir agir dans l'ombre.」
 [sha:361cf40dbbb4a93157e58a44f95c8bf4fe88e139]{
 -- Page 99, Offset 12136.
 -- そう怯える彼らには、もう、鳶丸を無視する事はできないらしい。
-  Effrayés de la sorte, ils ne pouvaient apparemment plus ignorer Tobimaru.
+  Effrayés par cette perspective, ils ne pouvaient apparemment plus ignorer Tobimaru.
 
 }
 [sha:47eb68320fb0d595f0a1f34669b48224cdf7b205]{
@@ -3871,7 +3871,7 @@ Et puis, il n'y a pas beaucoup de jeunes de notre âge comme lui qui connaissent
 [sha:eab9c0a17d929e7c3fc559c0bcd077849fb2a1e0]{
 -- Page 212, Offset 12474.
 -- 「ああ。騙されている側だったら金は減っていく。
-「Si. S'il faisait partie des gens escroqués, il ne ferait que perdre de l'argent.
+「Si. S'il faisait réellement partie des gens escroqués, il ne ferait que perdre de l'argent.
 
 }
 [sha:115e0bf26004e8efc581704187b01fc97d6485d5]{
@@ -4153,7 +4153,7 @@ Comme ça risque de partir en bagarre, dis-leur de venir bien équipés !」
 [sha:fc6050ee6bcb4103b09f7193b859f664067ee546]{
 -- Page 227, Offset 12521.
 -- しかも二十人って、おまえいったい何する気だ!?」
-  Et en plus, avec vingt personnes ? Qu'est-ce que t'as l'intention de faire ?!」
+  Et en plus, avec vingt personnes ? Qu'est-ce que t'as l'intention de faire au juste ?!」
 
 }
 [sha:e300bb0a7bbb8cb6e82a33832f7e62aa7bee9953]{
@@ -4573,7 +4573,7 @@ OK, je vais la contacter. Toi, appelle Mino, s'il te plaît.」
 [sha:217fbcf4d6fcdc406726a983668a6749f202d5fd]{
 -- Page 251, Offset 12591.
 -- 「サンキュー。さっすが久万梨、本気だせば仕事の速いこと速いこと」
-「Merci. Je te reconnais bien là. Une fois lancée, tu travailles vraiment vite et bien.」
+「Merci. Je te reconnais bien là, Kumari. Une fois lancée, tu travailles vraiment vite et bien.」
 
 }
 [sha:a394ddadf3d9416a82b65726e25772cb8f5ad44b]{
@@ -4645,7 +4645,7 @@ OK, je vais la contacter. Toi, appelle Mino, s'il te plaît.」
 [sha:8b2342f4aec34ef89211eaa84449b3769f618314]{
 -- Page 256, Offset 12603.
 -- 「アンタの言う条件が分かりやすかったから。
-「Les caractéristiques que tu m'as indiquées étaient faciles à comprendre.
+「Les caractéristiques que tu m'as indiquées étaient plutôt faciles à comprendre.
 
 }
 [sha:27dd93bed39734adbf2ba70701c726360ccdc101]{
@@ -4675,7 +4675,7 @@ Aozaki ?
 [sha:a5199ed69d65ee10d168c68c551c42ee53695752]{
 -- Page 256, Offset 12608. Mods: @x.
 -- ちょっと、なに薄気味悪い顔で笑ってるのよ」
-  Hé ! C'est quoi ce sourire sinistre ?」
+  Dis donc, c'est quoi ce sourire sinistre ?」
 
 }
 [sha:6d58b57e2b180d41f418f1a4143df2777060ea7a]{
@@ -6439,7 +6439,7 @@ Je ne vis pas seulement par mes propres moyens, mais aussi grâce aux efforts in
 [sha:2faf25350bd259b85afa203e34b7edd52ab57d7e]{
 -- Page 347, Offset 12902.
 -- 『これで満足したから残りはやっぱり貰っておくれ』
-  si finalement, elle se sent satisfaite et veut te confier le reste de l'argent,
+  si malgré tout, elle se sent satisfaite et décide de te confier le reste de l'argent,
 
 }
 [sha:4308c04667ab03099599df3ddb6b584f847764e6]{
@@ -6847,7 +6847,7 @@ Je ne vis pas seulement par mes propres moyens, mais aussi grâce aux efforts in
 [sha:f837fb8bf1ebcd52ffdfb1920bca04cdc62ffc81]{
 -- Page 369, Offset 12970.
 -- 「な―――ままま、まさかもう注文を!?」
-「Que―――Pas, pas, pas, pas possible ! Tu as déjà passé la commande ?!」
+「Que―――Pas, pas, pas, pas possible ! Tu as déjà envoyé la commande ?!」
 
 }
 [sha:a78595685ac37b933fbfe8732bcfdfceb8290290]{

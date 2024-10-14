@@ -1687,7 +1687,7 @@ Ce n'est pas comme si j'attendais quoi que ce soit de sa part.」
 [sha:a6b5638ad449e835da3f629e5b658ec01425f60e]{
 -- Page 91, Offset 8846.
 -- 即ち短期決戦。かつ、一撃必殺。
-  Autrement dit, une attaque surprise. Et un coup critique.
+  Autrement dit, une attaque-surprise. Et un coup critique.
 
 }
 [sha:3763c2cbeb881f1862f91da6f25f494da6760111]{
@@ -1765,7 +1765,7 @@ Ce n'est pas comme si j'attendais quoi que ce soit de sa part.」
 [sha:d4c1ab192e168989aa84fb000656e00529d7066f]{
 -- Page 95, Offset 8859.
 -- 昔、山で見知らぬ狐のテリトリーに入ってしまったコトを思いだす。
-  Cela lui rappelait la fois où, longtemps auparavant, il était entré sur le territoire d'un renard inopiné.
+  Cela lui rappelait la fois où, longtemps auparavant, il était entré inopinément sur le territoire d'un renard.
 
 }
 [sha:8d3400640f50d412e884c1b4a57a50d69db56cc3]{

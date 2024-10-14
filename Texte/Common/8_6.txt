@@ -91,7 +91,7 @@ même si tel était son point de vue, chasser Sōjūrō sans raison serait aussi
 [sha:58328d9b7ecd74fa4feadf2d45085e697428aa10]{
 -- Page 5, Offset 11219.
 -- 彼は有珠を意識する事なく、また、無視しているわけでもなかった。
-  Il n'avait pas fait attention à Alice, mais ce n'était pas comme s'il l'ignorait.
+  Il n'avait pas fait attention à Alice, mais ce n'était pas comme s'il l'avait ignorée.
 
 }
 [sha:97ffc4f4d588e80de280477f6e5ef44594a15918]{
@@ -445,7 +445,7 @@ Bien qu'elle ait déjà accompli mentalement l'acte en question à plusieurs rep
 [sha:d6f8a18a62acebb3632ce8efc33ab581c26ba2cb]{
 -- Page 23, Offset 11278.
 -- そんな草十郎の顔に動じず、有珠は淡々と続けていく。
-  Imperturbable face au visage de Sōjūrō, Alice continua d'un air indifférent.
+  Imperturbable face au visage de Sōjūrō, Alice continua sur un ton indifférent.
 
 }
 [sha:9e0fba2d3aba39b4c704284eb34edc14deae3ab7]{
@@ -913,7 +913,7 @@ Bien qu'elle ait déjà accompli mentalement l'acte en question à plusieurs rep
 [sha:44a532065a59b3df39a13ed326feb1d819d05d3d]{
 -- Page 48, Offset 11356.
 -- ちらりと廊下への扉に目をやって、誰も来そうにない事を確認すると、さらに一口。
-  Elle lança un regard vers la porte du couloir, et reprit une autre bouchée après s'être assurée que personne n'était sur le point d'entrer à l'improviste.
+  Elle lança un regard en direction de la porte du couloir, et reprit une autre bouchée après s'être assurée que personne n'était sur le point d'entrer à l'improviste.
 
 }
 [sha:5220f9158282e99453e7c5c2b5f6b771adb5af15]{

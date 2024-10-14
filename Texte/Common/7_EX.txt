@@ -115,7 +115,7 @@ Vous connaissez l'histoire : même dans une ville tranquille, il suffit que le m
 [sha:b6252caf797f89bdbaec30bbd322ae0bffc6e2f4]{
 -- Page 6, Offset 10042.
 -- ……同居人は<既|すで>にして十分なほど凶暴だが、これ以上<横暴|おうぼう>さが増しては、なにより本人の為にならない。また学校でよからぬ噂が流れてしまう。
-  ...... Ses colocataires étaient déjà suffisamment féroces, mais par-dessus tout, une intensification de la violence ne lui apporterait rien de bien. Autrement, de mauvaises rumeurs pourraient se propager à l'école.
+  ...... Ses colocataires étaient déjà suffisamment féroces, mais par-dessus tout, une intensification de la violence ne lui apporterait rien de bien. Si ça arrivait, de mauvaises rumeurs pourraient se propager à l'école.
 
 }
 [sha:80b6651e9d93686118846a02cbf6766f2f85d390]{
@@ -529,7 +529,7 @@ Vous connaissez l'histoire : même dans une ville tranquille, il suffit que le m
 [sha:2a79f6060eb27ba8edd5464ee5ab413f16a397d5]{
 -- Page 29, Offset 10111.
 -- 「鳥につっつかれる？　なにそれ、小さい悩み。
-「Heurté par un oiseau ? C'est ça qui te perturbe à ce point ? C'est vraiment un problème de rien du tout.
+「Heurté par un oiseau ? Vraiment, c'est rien du tout.
 
 }
 [sha:660e0ec2d4ec2797d205244ab1ee75b04f1035f1]{
@@ -679,7 +679,7 @@ Vous connaissez l'histoire : même dans une ville tranquille, il suffit que le m
 [sha:bdc4dd2a38c0dffabaefda230e09da762ae74c18]{
 -- Page 37, Offset 10136.
 -- それより貴方、あの山に引っ越したの？　前のアパートは引き払ったって聞いてたけど。……学校まで通うの、大変じゃない。なんだってあんな<辺鄙|へんぴ>なところに」
-  Par contre, tu as vraiment déménagé sur cette montagne ? C'est vrai que j'ai entendu dire que tu avais quitté ton appartement...... Mais ça doit être dur de se rendre à l'école. Pourquoi loger dans un endroit aussi éloigné ?」
+  Par contre, tu as vraiment déménagé sur cette montagne ? C'est vrai que j'ai entendu dire que tu avais quitté ton appartement...... Mais ça doit être dur de se rendre à l'école. Pourquoi loger dans un endroit aussi loin de tout ?」
 
 }
 [sha:989a1bd8152281eced70283542eb2b1e965119b4]{
@@ -823,7 +823,7 @@ Vous connaissez l'histoire : même dans une ville tranquille, il suffit que le m
 [sha:ca61b8baa03e3a4a583e0726ef15bf8268cb300b]{
 -- Page 45, Offset 10160.
 -- 虫も森も少ないんじゃもう山に逃げるしかない。彼らは故郷を追われて、この森から山に移った。
-  Le nombre d'insectes et les surfaces boisées diminuant en conséquence, ils se voient contraints de se réfugier sur les hauteurs. Chassés de leur lieu de naissance, ils ont migré de la forêt vers la montagne.
+  Le nombre d'insectes et les surfaces boisées ayant ainsi diminué, ils se voient contraints de se réfugier sur les hauteurs. Chassés de leur lieu de naissance, ils ont migré de la forêt vers la montagne.
 
 }
 [sha:0e8404fe231c31266f5a3312ed5762bc86592ad0]{
@@ -1159,19 +1159,19 @@ Vous connaissez l'histoire : même dans une ville tranquille, il suffit que le m
 [sha:9c7cffd70b5906dffdff415f4900254810349c38]{
 -- Page 62, Offset 10216.
 -- 「で、もっと最悪な事に、人間は工夫する生き物だった。
-「Et le plus horible dans tout ça, c'est toute l'ingéniosité dont les humains firent preuve.
+「Et le plus horrible dans tout ça, c'est toute l'ingéniosité dont les humains firent preuve.
 
 }
 [sha:ab24a7909bc8f48c2847c1cbda4e64f8461ba364]{
 -- Page 62, Offset 10217.
 -- 彼らはより速く、より多く、より簡単にリョコウバトを乱獲する手段を競い合った。
-  Ils utilisèrent tous les moyens possibles et imaginables pour faire la course à la chasse des pigeons migrateurs, toujours plus vite, en plus grand nombre et plus efficacement.
+  Ils employèrent tous les moyens possibles et imaginables pour faire la course à la chasse des pigeons migrateurs, toujours plus vite, en plus grand nombre et plus efficacement.
 
 }
 [sha:128d1fb19fea9b18f5b61c79032451e9153aba74]{
 -- Page 62, Offset 10218.
 -- 目を潰したハトを囮にして集団を誘いこんで、一日で一万羽以上捕らえたヤツさえいた。それでも彼らは乱獲に疑問すら持たなかった。
-  Ils utilisaient comme leurre des pigeons dont ils avaient crevé les yeux, afin d'attirer de grands groupes d'oiseaux. Grâce à ce procédé, certains chasseurs abattaient plus de dix mille oiseaux en un jour. Mais malgré l'évidence, ils ne songèrent même pas à remettre en doute la chasse à outrance.
+  Ils utilisaient comme leurre des pigeons dont ils avaient crevé les yeux, afin d'attirer de grands groupes d'oiseaux. Grâce à ça, certains chasseurs abattaient plus de dix mille oiseaux en un jour. Mais malgré l'évidence, ils ne songèrent même pas à remettre en doute la chasse à outrance.
 
 }
 [sha:83d86fe6ca8845f0c4f471a076f9196b89ae7867]{
@@ -1555,7 +1555,7 @@ Je pensais pourtant que cette histoire aurait indigné quelqu'un qui a grandi à
 [sha:6c7b9fe7e201b57e4cf033af55232f025bec77a4]{
 -- Page 81, Offset 10282.
 -- リョコウバトの話に熱が入ったのは、嫌いなコトの話ほど熱心に調べてしまう彼女の悪癖の結果である。
-  Si son histoire était si passionnée, c'était parce qu'elle avait la mauvaise habitude de faire des recherches assidues sur les choses qu'elle détestait.
+  Si son histoire avait été si passionnée, c'était parce qu'elle avait la mauvaise habitude de faire des recherches assidues sur les choses qu'elle détestait.
 
 }
 [sha:91b1108b51a28dd6104a477841d24f1d3d0fa70a]{
@@ -2299,7 +2299,7 @@ D'abord... Oui. Écoute les souvenirs d'ma première rencontre avec elle. À cau
 [sha:c4360d70fa2a2cbc238ae4bbbc3ce4d76efd19f7]{
 -- Page 120, Offset 10406.
 -- 『ちょっ、待つッスーーー！　ここからがいいところなのにナンデ去るっスか。スカーレットオハラっすか。激動の主人公気取りっスか！
-『Att... Attendsーーー! On arrive au meilleur moment, alors pourquoi tu pars ? Tu te prends pour Scarlett O'Hara ? Tu joues l'héroïne tourmentée ?
+『Att... Attendsーーー! On arrive au meilleur moment, alors pourquoi tu t'barres ? Tu te prends pour Scarlett O'Hara ? Tu joues l'héroïne tourmentée ?
 
 }
 [sha:f9675f926156922a1a7aba77ab3b0461382c0016]{
