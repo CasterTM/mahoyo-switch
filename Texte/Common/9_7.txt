@@ -679,13 +679,13 @@ Aaah, en le simplifiant de manière à ce que tu puisses comprendre...... Bah, c
 [sha:3c3f74e645a8456ebcd0fa3399617a3786149eb2]{
 -- Page 36, Offset 14187. Glued. Mods: @x.
 -- 限界だらけ、なんだよな？」
-Mais ça n'a que des limites, c'est ça ?」
+Mais ça n'a que des limites, c'est bien ça ?」
 
 }
 [sha:be72ff693b7683602e7d79ac7cecfcb13394ec37]{
 -- Page 36, Offset 14188.
 -- 「限界っていうか特例、特権、越権の類ね。
-「Des limites ou plutôt, c'est une sorte d'exception, de privilège voire d'abus.
+「Des limites ou plutôt, c'est une sorte d'exception ou de privilège, voire d'abus.
 
 }
 [sha:48040e9394933ce808d7680583b8520f439c89d3]{

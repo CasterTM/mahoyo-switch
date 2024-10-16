@@ -229,7 +229,7 @@ Je te jure, cette petite n'a jamais été sujette à l'hésitation.」
 [sha:1eb6727a72aa500628dcf8760c884f886886ee4d]{
 -- Page 12, Offset 13890.
 -- きっぱりと答える草十郎に、橙子はそう、と満足げに呟いた。
-  “Je vois”, murmura Tōko d'un air satisfait en entendant sa réponse claire.
+  “Je vois”, murmura Tōko d'un air satisfait en entendant sa réponse directe.
 
 }
 [sha:f70a1eb62e497677c79474e907009169a39afdc0]{

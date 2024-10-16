@@ -349,7 +349,7 @@ De nos jours, même les nouveaux restaurants de gyudon affichent des prix plus �
 [sha:0976b16119c0cdc19c8410e68487e8bdc0032289]{
 -- Page 19, Offset 13069.
 -- 「そんな昔のコトより今のコト！
-「Au lieu de nous focaliser sur le passé, concentrons-nous sur le présent !
+「Au lieu de nous focaliser sur le passé, concentrons-nous plutôt sur le présent !
 
 }
 [sha:1de0b7f66ee17e9bcc5d1269a2e33cf0d5d651f8]{

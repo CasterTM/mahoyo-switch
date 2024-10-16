@@ -811,7 +811,7 @@ Au fait, tu ne trouves pas ce poisson joli ? Il me donne envie de nager. Et si o
 [sha:419d4de651a8b40d0c49afe893e7e7b8888e4241]{
 -- Page 34, Offset 13447.
 -- 最上階と聞いていた事もあり、青子も二層構造と気付いた時は感心したものだ。
-  Comme elles savaient qu'elles se trouvaient au dernier étage, même Aoko fut étonnée en découvrant la structure en deux couches de l'aquarium.
+  Comme elles savaient qu'elles se trouvaient au dernier étage de l'immeuble, même Aoko fut étonnée en découvrant la structure en deux couches de l'aquarium.
 
 }
 [sha:fc43ea42bb0d348a4a92f28efdfc32ba4dec8cef]{
