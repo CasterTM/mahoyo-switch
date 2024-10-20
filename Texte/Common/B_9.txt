@@ -97,7 +97,7 @@ puisqu'elle est partie depuis longtemps.」
 [sha:1362156d9e64ee79560128885e56643d35ed857a]{
 -- Page 4, Offset 16575.
 -- 彼はなぜ、頼まれもせず他人の悩みを解いていたのか。
-  et pourquoi avait-il résolu les problèmes d'autrui sans qu'on le lui demande ?
+  et pourquoi avait-il résolu les problèmes d'autrui sans que personne ne le lui demande ?
 
 }
 [sha:5f78c77c921036adc2b12ef5cf300165126d8d82]{
@@ -235,7 +235,7 @@ puisqu'elle est partie depuis longtemps.」
 [sha:448f93804df00c04076428430c3895f446788160]{
 -- Page 9, Offset 16598.
 -- 盲目のシスターが、声だけで押し止めた。
-  la sœur le retint de par sa seule voix.
+  la sœur le retint avec sa seule voix.
 
 }
 [sha:2c66d04b3912127e2334e559765c90a7b18090f4]{

@@ -163,7 +163,7 @@
 [sha:37dfb0aabbd4450a19fb099ea870eb1718b4178a]{
 -- Page 6, Offset 15640.
 -- 「意味が分かりません。律架さん、結婚していないでしょう」
-「C'est incompréhensible. Ritsuka, vous n'êtes pas mariée, si je ne m'abuse ?」
+「C'est incompréhensible. Ritsuka, vous n'êtes pas mariée, il me semble ?」
 
 }
 [sha:6ff8dfa4654a598b896f3f6de39d9c6e7cb6d4ff]{
@@ -781,7 +781,7 @@ Ce n'était pas véritablement un regard de reproche, elle semblait plutôt êtr
 [sha:b5b4707351c7c74d22a2e31c59befe269e3e7609]{
 -- Page 35, Offset 15743.
 -- 真新しい包帯は秒刻みで朱色に<滲|にじ>んでいく。
-  À chaque seconde, les tout nouveaux bandages s'imbibaient de vermillon.
+  À chaque seconde, les tout nouveaux bandages s'imbibaient un peu plus de vermillon.
 
 }
 [sha:62131691b721a0912f8d5bc6798ed7c5f787c166]{

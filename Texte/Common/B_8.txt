@@ -397,7 +397,7 @@ C'est parce que tu ne laisses rien transparaître de tes inquiétudes devant les
 [sha:9f108977df03df8358f29736ab2933626ec451c4]{
 -- Page 19, Offset 16406.
 -- 「山での生活がいかに厳しいものかは、私も人並みには知っています。若い頃、ちょっとした手違いで遭難した事もありますしね。
-「Je sais vaguement à quel point la vie en montagne peut être rigoureuse. Dans ma jeunesse, j'y ai eu un accident à cause d'une petite faute d'inattention.
+「Je sais vaguement à quel point la vie en montagne peut être rigoureuse. Moi-même, dans ma jeunesse, j'y ai eu un accident à cause d'une petite faute d'inattention.
 
 }
 [sha:603b594b19c2ba14960eacba823f3166cc0faab9]{
@@ -667,7 +667,7 @@ Dire que tu n'as pas de couleur qui t'est propre serait une métaphore plus corr
 [sha:a1b00b0369df7180ed0aa89c0ee03d1347f0934f]{
 -- Page 32, Offset 16451.
 -- ようやく慣れた常識の中で、青子たちという非常識と関わっても暮らしていけた事。
-  Tu t'habituais à peine à cette vie remplie de bon sens que tu t'es retrouvé impliqué avec les anomalies que sont Aoko et Alice. Et pourtant, tu as conservé ta routine.
+  Alors que tu t'habituais à peine à cette vie remplie de bon sens, tu t'es retrouvé impliqué avec les anomalies que sont Aoko et Alice. Et pourtant, tu as conservé ta routine.
 
 }
 [sha:401c11d7f8258dd34667b6a7ccaf94167ce13100]{

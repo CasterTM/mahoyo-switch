@@ -217,7 +217,7 @@ Tōko ne faisait qu'utiliser une science déjà morte en la ressuscitant à chaq
 [sha:f791d13e256dd2aa230e779ee8cc068257408edc]{
 -- Page 9, Offset 15866.
 -- 燃え上がる炎のような、金狼の姿があった。
-  se tenait au milieu des restes fumants du “monstre de contes de fées”.
+  se tenait au milieu des restes encore fumants du “monstre de contes de fées”.
 
 }
 [sha:39332305a0fabd65c4229b9a19438910a3cee0a0]{

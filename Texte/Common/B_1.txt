@@ -79,7 +79,7 @@
 [sha:ee5dc62211c048687c66e6bb5351d983367c4163]{
 -- Page 4, Offset 15486.
 -- 「ちょ、有珠！　連絡をするなら、電話は？」
-「Attends, Alice ! Si tu veux les prévenir, pourquoi ne pas leur téléphoner ?」
+「Attends, Alice ! Si tu veux les prévenir, pourquoi ne pas plutôt leur téléphoner ?」
 
 }
 [sha:79a44f42369e307eebb6c4193f6ddbb8a4e35df6]{

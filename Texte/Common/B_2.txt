@@ -25,7 +25,7 @@
 [sha:8fd64403a5504b5c8093a173f050c10e6cf4f2e8]{
 -- Page 0, Offset 15564.
 -- 今夜はただ、その一人が病院の手には負えない重傷者であっただけの話だ。
-  et cette fois, la blessée grave ne pouvait être prise en charge par l'hôpital.
+  et cette fois, la blessée grave ne pouvait pas être prise en charge par l'hôpital.
 
 }
 [sha:83a3fc9564faa3bcdbeb3af04d200b8fee9f7169]{

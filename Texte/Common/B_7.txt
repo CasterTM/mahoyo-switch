@@ -1555,7 +1555,7 @@ Tes blessures par exemple, maintenant, je peux supporter de les voir, mais hier,
 [sha:7af2392dbaab964b10bfc73f5524d259f7989b5d]{
 -- Page 77, Offset 16272.
 -- 忌ま忌ましげに語る青子の横顔は、鬼気迫るものがあった。
-  Le profil d'Aoko, qui parlait d'un air vexé, avait quelque chose d'effrayant.
+  Le visage de profil d'Aoko, qui parlait d'un air vexé, avait quelque chose d'effrayant.
 
 }
 [sha:174baeb5d250b8a5975a0e20e497a8c3a007cfb3]{
