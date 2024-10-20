@@ -451,7 +451,7 @@ ahem.」
 [sha:a1199b3c39d307ddefc93fd34e4bfb944c5753b9]{
 -- Page 22, Offset 14448.
 -- 「で、ぜんぶ終わったら私の部屋に来てくれる？
-「Et quand tu auras fini tout ça, tu pourras aussi venir dans ma chambre ?
+「Et une fois que tu auras fini tout ça, tu pourras aussi venir dans ma chambre ?
 
 }
 [sha:681f32843106569579f29461872dab5c83939056]{

@@ -181,7 +181,7 @@
 [sha:a0f24578e336efd20a440a11641fd8d317b86767]{
 -- Page 8, Offset 14744.
 -- 仕方なく何か言おうとして、ハタ、と草十郎は考えこんだ。
-  Il allait dire quelque chose, quand, soudain, une pensée lui traversa l'esprit.
+  Il allait dire quelque chose, mais une pensée lui traversa soudainement l'esprit.
 
 }
 [sha:4998c2b8631ddfe2110bd34dc59186430b20a6d2]{

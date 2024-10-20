@@ -379,7 +379,7 @@
 [sha:82e1e67f7ec47d7382d81c9cb2a001025ff18358]{
 -- Page 17, Offset 15252.
 -- ……けれど、それでも、最後の最後で助けを求めた。
-  ...... Et pourtant, à la toute dernière seconde, elle avait appelé au secours,
+  ...... Et pourtant, à la toute dernière seconde, elle l'avait appelé au secours,
 
 }
 [sha:635453cf8433562fcafb7003bcac4cc8c7f011da]{

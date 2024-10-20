@@ -571,7 +571,7 @@ Sa colonne vertébrale étant brisée juste au-dessus des reins, Alice ne pouvai
 [sha:890a7e8c3d627199eb7a546b3778e3f5a697a910]{
 -- Page 29, Offset 15383.
 -- 「使えるものがあるのにお金がないだけで使えないんだから、それって不便って言わないか？」
-「Pourquoi ? On pourrait utiliser certaines choses, mais on ne peut pas simplement parce qu'on n'a pas l'argent. Ce n'est pas terriblement frustrant, ça ?」
+「Pourquoi ? On pourrait utiliser certaines choses, mais on ne peut pas parce qu'on n'a pas l'argent. Ce n'est pas terriblement frustrant, ça ?」
 
 }
 [sha:d4dcc08bf2689df55221b922b8594556284be8c8]{

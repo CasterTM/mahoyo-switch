@@ -7,7 +7,7 @@
 [sha:80d1efd37a3506bf1e51e0c652e7fb073363464b]{
 -- Page 0, Offset 15400.
 -- 洋館の左翼、ロビーから西は彼女の管轄である。
-  La partie gauche du manoir, à l'ouest du vestibule, était sous sa juridiction.
+  La partie gauche du manoir, située à l'ouest du vestibule, était sous sa juridiction.
 
 }
 [sha:5395f02c2aeff9ceba1b305420f618d12bbd8735]{
