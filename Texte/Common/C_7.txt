@@ -163,7 +163,7 @@ Hein ?」
 [sha:ceac6b1c960636c72e43afbb011cda9410e11ba3]{
 -- Page 8, Offset 18549.
 -- そう。よくよく思い返してみると、アレはおかしな言い回しだったのだ。
-  Maintenant qu'elle y repensait, la formulation employée avait été curieuse.
+  Maintenant qu'elle y pensait, la formulation employée avait été curieuse.
 
 }
 [sha:f31b16db95cc25849123fe4a150289041e75afdb]{

@@ -607,7 +607,7 @@ monsieur............?」
 [sha:3537ddde16eb795e61d9046b2f0400346d8d26d6]{
 -- Page 29, Offset 18306.
 -- 人から獣に変わっただけでも悪夢なのだ。
-  Le simple fait qu'il se soit transformé en bête relevait déjà du cauchemar.
+  Le simple fait qu'il se soit changé en bête relevait déjà du cauchemar.
 
 }
 [sha:5ed3bb28f77936b3693085e83e06bfbd5e30f1a5]{

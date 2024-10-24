@@ -685,13 +685,13 @@ Comment maintiens-tu l'équilibre malgré la perte de cette énergie ?」
 [sha:a7ac0f629aa9227bb053d8ce7da6ed482f6e47b6]{
 -- Page 29, Offset 17526.
 -- 何千億年後にくる宇宙の死滅、人類の行く末に待つ<どん詰|デッド><まり|エンド>に、さらなる負債を押しつける気か!?
-  Tu comptes imposer cette dette à l'humanité qui est déjà dans une impasse, avec l'extinction de l'univers qui arrivera d'ici des milliards d'années ?!
+  Tu comptes imposer cette dette à l'humanité qui est déjà dans une impasse, avec l'extinction de l'univers qui arrivera dans plusieurs centaines de milliards d'années ?!
 
 }
 [sha:f99b1706756dd13724fac0f750b35b13b58bd9df]{
 -- Page 29, Offset 17527. Glued. Mods: @x.
 -- この星の頭上に隕石を作っているようなものだぞ!?
-  Tu te rends compte que ça revient à placer des météorites au-dessus de notre planète ?!
+Tu te rends compte que ça revient à placer des météorites au-dessus de notre planète ?!
 
 }
 [sha:eb9c527b5763db3fc3a3644e13cf4ab497973550]{

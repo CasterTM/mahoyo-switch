@@ -565,7 +565,7 @@ Et puis, mon objectif se trouve au fin fond de la veine spirituelle et non pas d
 [sha:e0fc8afe4c7d9945a53f6fa0de87a8fd6f7d5b2e]{
 -- Page 29, Offset 16881. Glued. Mods: @x.
 -- だがもういいよ。欲しくはあるが、<到|・><達|・><す|・><れ|・><ば|・>どちらも自分で用意できる。
-Tout ceci ne m'importe plus. Je les désire, mais si j'atteins la Source, je pourrai obtenir les deux moi-même.
+Tout ceci ne m'importe plus vraiment. Je les désire, mais si j'atteins la Source, je pourrai obtenir les deux moi-même.
 
 }
 [sha:e5c720c2237b5a80a68eb8e8a39c7572c62c7b86]{
@@ -625,7 +625,7 @@ Tout ceci ne m'importe plus. Je les désire, mais si j'atteins la Source, je pou
 [sha:73589c2a3cdbb67758c94826bcea6540ee4392e7]{
 -- Page 31, Offset 16891.
 -- 大げさな話でなく、魔法の発現でこの街が消え去っても何の感慨も浮かべまい。
-  Il ne serait pas exagéré d'affirmer que même si cette ville disparaissait à cause de l'activation de la Vraie Magie, cela ne lui ferait ni chaud ni froid.
+  On pouvait même affirmer que si cette ville disparaissait à cause de l'activation de la Vraie Magie, cela ne lui ferait ni chaud ni froid.
 
 }
 [sha:5892713f328ac47ce601a2fdb39fdfcc74a8bf95]{
@@ -991,7 +991,7 @@ Un atout n'en est véritablement un que lorsqu'il est le fruit de nos capacités
 [sha:21616afe76aa42c90f53d2f31e8a6fd7ee3f9653]{
 -- Page 46, Offset 16952.
 -- それは魔術刻印を動員した、<四小節の大魔術|フォース・トゥ・フォース>。
-  C'était un <sort de haut niveau à quatre versets|Force To Fourth> qui nécessitait l'activation du Sceau Magique.
+  C'était un sort de haut niveau à <quatre versets|Force To Fourth> qui nécessitait l'activation du Sceau Magique.
 
 }
 [sha:8e6087de78676d109136714a9f2f9e841d1bf697]{
@@ -1063,7 +1063,7 @@ Un atout n'en est véritablement un que lorsqu'il est le fruit de nos capacités
 [sha:54672e4af49998a79b31c361a10b508b5c90ea77]{
 -- Page 48, Offset 16964.
 -- 橙子の位置からでは視界が二つに別けられ、正面の<像|あおこ>を視認できない……！
-  Là où elle se situait, son champ de vision était divisé en deux et il lui était impossible de confirmer visuellement la position de sa sœur cadette......!
+  De là où Tōko se situait, son champ de vision se séparait en deux et elle ne pouvait déterminer la position de sa sœur cadette......!
 
 }
 [sha:fe3b5bdb05e59e64fdd423f35d083fab0a6b022e]{
