@@ -1345,7 +1345,7 @@ Ah, par contre, je serais vachement content si tu m'achetais un hamburger en ren
 [sha:cd3a1744ab17647b2d42df7c6533b2a309cfc355]{
 -- Page 71, Offset 20691.
 -- いっつも周りを恨んでいて、文句ばっかり言って、幸せそうなヒトたちをメチャクチャにしたいんだけど大義名分がないから我慢してる……そんな、理性のおかげでかろうじて性格破綻者を<免|まぬが>れてるトーコさんはどこいったのさ？」
-  Tu as pour habitude de maudire ton entourage et de te plaindre. Et puis, tu éprouves l'envie irrépressible de ruiner la vie des gens heureux, mais tu parviens à te contrôler parce que tu n'as aucune bonne raison de t'en prendre à eux... Où est donc passée la Tōko que je connais ? Celle qui évite de justesse de sombrer dans la folie par la seule force de sa raison ?」
+  Tu as pour habitude de maudire ton entourage et de te plaindre. Et puis, tu éprouves l'envie irrépressible de ruiner la vie des gens heureux, mais tu parviens à te contrôler parce que tu n'as aucune bonne raison de t'en prendre à eux... Où est passée la Tōko que je connais ? Celle qui évite de justesse de sombrer dans la folie par la seule force de sa raison ?」
 
 }
 [sha:25e932710d4d96a09792e6941dba5a93e29b4e03]{
@@ -2539,7 +2539,7 @@ Ah, par contre, je serais vachement content si tu m'achetais un hamburger en ren
 [sha:31aa97e8c261a52976b7c5ee3a1e1c7841f6cec5]{
 -- Page 133, Offset 20894.
 -- 悪魔！　人でなし！　天才悪魔！　トコちゃんはもう少し一般常識を学ぶべきです！　もう、どうりで夜な夜な泥棒さんがピッキングしてると思った！」
-  Démon ! Brute ! Génie du Mal ! Tu devrais un peu apprendre le bon sens ! Pas étonnant que j'aie cru qu'un voleur me rendait visite chaque nuit !」
+  Démon ! Brute ! Génie du Mal ! Tu devrais un peu apprendre à faire preuve de bon sens ! Pas étonnant que j'aie cru qu'un voleur me rendait visite chaque nuit !」
 
 }
 [sha:38eece91cc7a67b06572b54e5b4ddbfe34a0478c]{
@@ -3649,7 +3649,7 @@ Je te vois bien transformer une usine ou des bureaux quelconques en base secrèt
 [sha:1f173d80a1f6745201372516c2ee236cfbb1372a]{
 -- Page 192, Offset 21079.
 -- ひとり小言を口にしながら、シスターはひょい、と片手で<脚立|きゃたつ>を持ち上げた。
-  La sœur laissa échapper quelques plaintes et souleva d'une main l'escabeau.
+  La sœur laissa échapper quelques plaintes et souleva d'une seule main un escabeau.
 
 }
 [sha:be83f0e0a1117d0ab1b9511b226a934ee8543af8]{
@@ -4009,7 +4009,7 @@ Je te vois bien transformer une usine ou des bureaux quelconques en base secrèt
 [sha:40d939e660ac8f3172a2258d8e3d71083b3d29da]{
 -- Page 210, Offset 21139.
 -- ベオにとって、食事は燃料補給のパターンの一つにすぎない。
-  Pour Beo, le repas n'était qu'un moyen de réapprovisionnement en énergie.
+  Pour Beo, le repas n'était qu'un simple moyen de réapprovisionnement en énergie.
 
 }
 [sha:920a0377becaae43d45244f9c750e791d419a228]{

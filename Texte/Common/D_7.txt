@@ -253,7 +253,7 @@ Un bref silence.
 [sha:6ea1d5d5f627af02c141c5a6d5a7d5558bebf26d]{
 -- Page 11, Offset 19403.
 -- そしてあの日は、何もかもが符合しすぎていた。
-  Et ce jour-là, tous les éléments avaient convergé vers la même conclusion.
+  Et ce jour-là, tous les éléments avaient convergé vers le même résultat.
 
 }
 [sha:bf7c1e75d0cce43581ad82582efed4414fa3e930]{

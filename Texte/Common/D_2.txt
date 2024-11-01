@@ -349,7 +349,7 @@
 [sha:dd64c007b25d0f45a788a73ac9600accbb1e7fb9]{
 -- Page 18, Offset 18955.
 -- ふたりの足音だけが響く中、青子は彼女なりに耐えてみたけれど、それも限界とばかりに口を開けた。
-  Aoko avait tenté à sa façon d'endurer le silence que seuls leurs bruits de pas brisaient, mais elle finit par atteindre ses limites et ouvrit la bouche.
+  Aoko avait tenté à sa façon d'endurer le silence que seuls leurs bruits de pas brisaient, mais elle finit par atteindre ses limites et commença à parler.
 
 }
 [sha:e403cf4fa2beb8b3987c263cb6f3558f03209a15]{
