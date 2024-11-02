@@ -79,7 +79,7 @@
 [sha:b828ebe0967db942a10f8500bb3b6566b8f3ecaa]{
 -- Page 2, Offset 21491.
 -- 「草十郎のへ……いえ、屋根裏部屋に鍵は付いていないわ。常時、誰でも入れる状態よ」
-「La chambre de Soujyu...... Je veux dire, le grenier n'a pas de serrure. N'importe qui peut y entrer n'importe quand.」
+「La chambre de Sōjū...... Je veux dire, le grenier n'a pas de serrure. N'importe qui peut y entrer n'importe quand.」
 
 }
 [sha:a40f801728f59e1aed77572ae84590387bbb0ba8]{

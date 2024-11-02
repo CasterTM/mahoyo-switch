@@ -7,7 +7,7 @@
 [sha:4f9284e662893bdb6b8851bd79127d21711e1b4c]{
 -- Page 0, Offset 22156.
 -- 手と足と顔にダイナマイトつけたんじゃないの？」
-  On lui a attaché de la dynamite sur les mains, les jambes et la tête, non ?」
+  On lui a juste attaché de la dynamite sur les mains, les jambes et la tête, non ?」
 
 }
 [sha:3374592f2d88655ffbf28b6547f1956546273424]{
@@ -481,7 +481,7 @@ Kof ?!」
 [sha:db99a90bdeb6abf038a2f0531f91025824716b09]{
 -- Page 24, Offset 22235.
 -- 「ほ、芳助ぇぇーーーーえ！？」
-「Ho... HōsukeeeーーーーHein ?!」
+「Hō... HōsukeeeーーーーHein ?!」
 
 }
 [sha:d22d13badd4399e8ca6f463574c53785461e8b58]{

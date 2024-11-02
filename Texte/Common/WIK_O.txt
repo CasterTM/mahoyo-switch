@@ -265,7 +265,7 @@ une autre à
 [sha:b59d3362519314cba6460c760fba9aa088413921]{
 -- Page 10, Offset 22862.
 -- わたしたちは雨が降り出してから一度も外に出ていない。
-  Nous ne sommes pas sortis une seule fois depuis qu'il s'est mis à pleuvoir.
+  Or, nous ne sommes pas sortis une seule fois depuis qu'il s'est mis à pleuvoir.
 
 }
 [sha:e06992f4753217a8739c3edbae13702981605edb]{

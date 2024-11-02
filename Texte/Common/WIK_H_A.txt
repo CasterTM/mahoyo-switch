@@ -319,7 +319,7 @@
 [sha:a65db6956be6dfcf8defcf3aa2ea89d1d853841e]{
 -- Page 18, Offset 22381. Glued. Mods: @x.
 -- どうせ遊びだしさー」
- De toute façon, c'est qu'un jeu.」
+De toute façon, c'est qu'un jeu.」
 
 }
 [sha:cef8f58d69a3cbb289ed0e3e8dfc62831d0aaa5a]{

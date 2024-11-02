@@ -151,7 +151,7 @@ tre.」
 [sha:373e69bdebc08749367fd2e34b8e80efe1a8e619]{
 -- Page 4, Offset 23782.
 -- 「いや、その演技はいいから」
-「Tu peux arrêter avec ton jeu d'acteur.」
+「Tu peux arrêter ton numéro.」
 
 }
 [sha:ccf813348baf9ca7f83308e920b486e526301fe8]{

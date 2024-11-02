@@ -199,7 +199,7 @@
 [sha:20dd4fcdf10ddd2abe87b3c7d2253413de4ee654]{
 -- Page 10, Offset 22446.
 -- 「アンタらがどんな経緯で洋館に来たかは不明よね？
-「Les détails de votre venue à la résidence sont inconnus, si je ne m'abuse ?
+「Les détails de votre venue à la résidence ne sont pas tous connus, si je ne m'abuse ?
 
 }
 [sha:d1fcbec7c12bd3f954a74e084073446820cf6277]{

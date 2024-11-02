@@ -511,7 +511,7 @@ pff, pff.」
 [sha:8e8ffa813005f3cff17c8cc568b4357108fc0b41]{
 -- Page 29, Offset 21636.
 -- 普段は代行している人間そのものだけど、『ルール実行可能』な条件になると、その時だけスイーツハーツの人格に切り替わる。
-  En temps normal, il a la personnalité de son utilisateur, mais lorsque des conditions propices à l'exécution des règles se présentent, et à ce moment seulement, la personnalité de Sweets Hearts remonte à la surface.
+  En temps normal, il a la personnalité de son utilisateur, mais lorsque des conditions propices à l'exécution des règles se présentent, et à ce moment seulement, la personnalité de Sweets Hearts refait surface.
 
 }
 [sha:faa606688559560149501e71406fb2c7ee0f7833]{

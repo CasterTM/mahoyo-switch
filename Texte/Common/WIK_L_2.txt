@@ -157,7 +157,7 @@ Pardon ?! Tu me demandes si je n'ai pas encore abandonné ? Idiiiiiiiiot ! Tu n'
 [sha:68fe2d52e45ae4bce49025672e18bafb4f1f6825]{
 -- Page 10, Offset 22542. Glued. Mods: @x.
 -- ほら、座標は分かるでしょ。さっさと飛ばして。十分以内よ、十分以内』
-  Bref, tu as toujours les coordonnées ? Magne-toi de le faire décoller ! Je le veux ici dans dix minutes, capiche ?』
+Bref, tu as toujours les coordonnées ? Magne-toi de le faire décoller ! Je le veux ici dans dix minutes, capiche ?』
 
 }
 [sha:1f6dfd67c02281b75494c8b4c4c5b63f889c4448]{
@@ -175,7 +175,7 @@ Pardon ?! Tu me demandes si je n'ai pas encore abandonné ? Idiiiiiiiiot ! Tu n'
 [sha:ef8649536f8dda204476790b4a3e0d742ac38b0a]{
 -- Page 11, Offset 22545.
 -- 飛ばしたくても機体がない？　このハイトンチキ、アンタそれでも商人？　頭使いなさいよね。近くに軍用基地あるでしょ。そこに試作の最新鋭機があるって話よ。強襲用の。それ、一機チャーターして』
-  Même si tu voulais en faire décoller un autre, il n'y en a aucun disponible ? Espèce de gros poulet ! Et tu te prends pour un homme d'affaires ? Utilise un peu ta cervelle ! Il y a une base militaire près d'ici, non ? D'après les rumeurs, leur dernier prototype est entreposé là-bas ! Celui spécialisé dans les assauts. Affrète-le !』
+  Même si tu voulais en faire décoller un autre, aucun n'est disponible ? Espèce de gros poulet ! Et tu te prends pour un homme d'affaires ? Utilise un peu ta cervelle ! Il y a une base militaire près d'ici, non ? D'après les rumeurs, leur dernier prototype est entreposé là-bas ! Celui spécialisé dans les assauts. Affrète-le !』
 
 }
 [sha:317f7ebff35e185bddd92fbfae47c29243d35a4d]{

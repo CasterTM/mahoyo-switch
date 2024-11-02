@@ -97,7 +97,7 @@
 [sha:48e27e9b55e1b17c798e70c0d6637beece725976]{
 -- Page 5, Offset 22490.
 -- わたしが切り出すまでもなく、<籠城|ろうじょう>案が可決された。
-  L'idée du confinement fut adoptée sans que j'aie à en faire la proposition.
+  L'idée du confinement fut adoptée sans même que j'aie à en faire la proposition.
 
 }
 [sha:68b1355704ea95ba744b81617f486901671066d1]{
