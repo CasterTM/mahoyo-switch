@@ -2011,7 +2011,7 @@ qu'est-ce que l'on fait dans cet endroit ?
 [sha:b3dbb8b0db60aa08d3087d6b793c022d7f8f3317]{
 -- Page 113, Offset 1983. Mods: @k, @e.
 -- どう、これから適当な<茶店|さてん>でお茶にしない？　草十郎さんの仕事っぷりに敬意を表して、わたしがおご
-  Qu'est-ce que tu dirais d'aller à présent dans un salon de thé décent ? Pour récompenser ton comportement travailleur, c'est moi qui réga―――
+  À présent, que dirais-tu d'aller dans un salon de thé décent ? Pour récompenser ton comportement travailleur, c'est moi qui réga―――
 
 }
 [sha:f3fe33ebb37b3654286eb03e37ce4a4cff61673f]{

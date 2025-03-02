@@ -1099,7 +1099,7 @@ London Bridge is broken down,
 [sha:1c50c5b9de5553cba0130495e934a6d94b55702e]{
 -- Page 49, Offset 1520.
 -- 『お支払いは面倒でも、できればポンドでお願いします！』
-『Même si le paiement est ennuyeux, si possible, je voudrais le régler en Livres !』
+『Même si le paiement est ennuyeux, si possible, je voudrais le régler en livres sterling !』
 
 }
 [sha:7e2716abcdf55187f756ad1dd00e4cf34f6bfbae]{

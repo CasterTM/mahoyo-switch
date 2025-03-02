@@ -445,7 +445,7 @@
 [sha:deec0ba71402951c18700a49d8254f11e052d1e2]{
 -- Page 23, Offset 2192.
 -- えー、食材は下町のなんでも商会、マーケット中山からの提供です！」
-  Oooh, les ingrédients viennent du marché Nakayama et de la firme Macoy de la ville basse !」
+  Hum, les ingrédients viennent du marché Nakayama et de la firme Macoy de la ville basse !」
 
 }
 [sha:d3fd74b488ef6b785483d3b1c042953405f6dbb7]{
